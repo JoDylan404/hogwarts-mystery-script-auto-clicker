@@ -7,5 +7,5 @@ Pour toute participation, question, demande. Je vous invite a suivre le lien de 
 
 script utilise "Automatic Mouse and Keyboard 5.2.9.2".
 tuto utilisation : https://www.youtube.com/watch?v=jqXKVN9znbg&ab_channel=%C4%90%E1%BA%A1tB%C3%B9i
-lien : https://drive.google.com/file/d/0BwRBTzEEtb80QnpaREN5VWRack0/view?resourcekey=0-hvc27Cq5P3U20OYHQb3Xcw
+lien : en description de la video
 Pour toute participation, question, demande. Je vous invite a suivre le lien "plus de détaile et contacte:
