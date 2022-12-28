@@ -9,9 +9,7 @@ script utilise "Automatic Mouse and Keyboard V6.3.8.6".
 @ : hogwarts-mystery-script-auto-clicker\Source\AMK_v6.3.8.6
 
 tuto utilisation :
-https://www.youtube.com/watch?v=jHpFOEshNHc&list=PLiU-5Gwhj8kywmqv_4UiQoak5_1BA1B3n&index=1&ab_channel=DONTUTORIAL
-
-autre tuto et lien en description https://www.mediafire.com/file/fq37z014xgcclsp
+https://www.youtube.com/watch?v=BcvSwHz7tfw&ab_channel=DivineElixir
 
 Plus de détaile et contact : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
 
