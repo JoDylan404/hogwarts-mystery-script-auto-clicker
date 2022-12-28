@@ -8,4 +8,5 @@ Pour toute participation, question, demande. Je vous invite a suivre le lien de 
 script utilise "Automatic Mouse and Keyboard 5.2.9.2".
 tuto utilisation : https://www.youtube.com/watch?v=jqXKVN9znbg&ab_channel=%C4%90%E1%BA%A1tB%C3%B9i
 lien : en description de la video
-Pour toute participation, question, demande. Je vous invite a suivre le lien "plus de détaile et contacte:
+Pour toute participation, question, demande. Je vous invite a suivre le lien "plus de détaile et contacte:"
+/!\Automatic Mouse and Keyboard crache si vous declarer des fonction vide avec aucun appel de fonction, penser a les metre en commentaire/!\
