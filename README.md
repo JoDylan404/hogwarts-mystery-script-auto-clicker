@@ -14,4 +14,9 @@ https://www.youtube.com/watch?v=BcvSwHz7tfw&ab_channel=DivineElixir&themeRefresh
 Plus de détaile et contact : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
 
 Pour toute participation, question, demande. Je vous invite a suivre le lien "plus de détaile et contacte:
+Pour soutenir le developement :
+lien de parainege : 
+EarnEpp : https://earnapp.com/i/83x6lce
+SweatCoin : https://sweatco.in/m/johnsch
+
 /!\Automatic Mouse and Keyboard crache si vous declarer des fonction vide avec aucun appel de fonction, penser a les metre en commentaire/!\
