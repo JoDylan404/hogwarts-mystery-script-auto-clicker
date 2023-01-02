@@ -10,3 +10,7 @@ tuto utilisation : https://www.youtube.com/watch?v=jqXKVN9znbg&ab_channel=%C4%90
 lien : en description de la video
 Pour toute participation, question, demande. Je vous invite a suivre le lien "plus de détaile et contacte:"
 /!\Automatic Mouse and Keyboard crache si vous declarer des fonction vide avec aucun appel de fonction, penser a les metre en commentaire/!\
+Pour soutenir le developement :
+lien de parainege : 
+EarnEpp : https://earnapp.com/i/83x6lce
+SweatCoin : https://sweatco.in/m/johnsch
