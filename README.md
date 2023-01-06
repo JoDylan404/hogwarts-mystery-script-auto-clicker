@@ -7,4 +7,4 @@ Pour toute participation, question, demande. Je vous invite a suivre le lien de 
 Pour soutenir le developement :
 lien de parainege : 
 EarnEpp : https://earnapp.com/i/83x6lce
-SweatCoin : https://sweatco.in/m/johnsch
+SweatCoin : https://sweatco.in/hi/jodylan
