@@ -17,6 +17,6 @@ Pour toute participation, question, demande. Je vous invite a suivre le lien "pl
 Pour soutenir le developement :
 lien de parainege : 
 EarnEpp : https://earnapp.com/i/83x6lce
-SweatCoin : https://sweatco.in/m/johnsch
+SweatCoin : https://sweatco.in/hi/jodylan
 
 /!\Automatic Mouse and Keyboard crache si vous declarer des fonction vide avec aucun appel de fonction, penser a les metre en commentaire/!\
