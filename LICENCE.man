@@ -107,91 +107,174 @@ License Statement :
    
 ------------------------------------------------------------------------------------------------------
 
-Auteurs en amont : 
+This package was debianized by Atsushi KAMOSHIDA kamop@post1.com on
+Sun, 13 Apr 1997 17:52:59 +0900.
 
-      LHarc 0.01-1.00 : Yooichi Tagawa (code LHa tiré d'ici, 1988-1989) 
-     	    ID Nikkei-mix : y.tagawa (Maintenant, c'est l'ancien BBS, le terme de licence 
-     	    dans la page de manuel provient de sa licence pour lharc) 
-     	    Sa nouvelle page Web semble être www2s.biglibe.ne.jp/~yex/ 
-     	    yooedit2001@yahoo.co.jp est le contact adresse e-mail d'un autre 
-     	    logiciel. Page mise à jour au moins juillet/2001 
+It was downloaded from http://www2m.biglobe.ne.jp/~dolphin/lha/lha.htm
+
+Upstream Authors: 
+
+      LHarc 0.01-1.00:   Yooichi Tagawa (LHa code taken from here, 1988-1989)
+     	  Nikkei-mix ID: y.tagawa (Now this is defunct BBS, Licensing term
+     	  in manual page come from his licence for lharc)
+     	  His new web page seems to be www2s.biglibe.ne.jp/~yex/
+     	  yooedit2001@yahoo.co.jp is the contact e-mail address for another
+     	  software.  Page updated at least July/2001
      	  
-      LHa 0.01-1.00 : Masaru Oki (auteur original de LHa, 1991-1992) 
-     	    Adresse e-mail : oki@netbsd.org
+      LHa   0.01-1.00:   Masaru Oki     (LHa original author, 1991-1992)
+     	  E-Mail address: oki@netbsd.org
      
-      LHa 1.10-1.14 : Nobutaka Watazaki (Dernière version officielle ? 1993-1995) 
-	        ALICE-NET ALS00595 Nasty 
-	        E-Mail JBD02514@niftyserve.or.jp 
-	        E-Mail femcs@mbox.kyoto-inet.or.jp 
-	        NIFTY-Serve JBD02514 
-	        E -Adresse 
-	        e-mail : watazaki@shimadzu.co.jp Adresse e-mail : watazaki@shimadzusd.co.jp 
+      LHa   1.10-1.14:   Nobutaka Watazaki (Last official release? 1993-1995)
+	  ALICE-NET       ALS00595    Nasty
+	  E-Mail          JBD02514@niftyserve.or.jp
+	  E-Mail          femcs@mbox.kyoto-inet.or.jp
+	  NIFTY-Serve     JBD02514
+	  E-Mail address: watazaki@shimadzu.co.jp
+	  E-Mail address: watazaki@shimadzusd.co.jp
      	  
-      Lha 1.14a-1.14e : Tsugio Okamoto <tsugio@muc.biglobe.ne.jp> (1996-2000) 
-Copyright : 
+      Lha   1.14a-1.14e: Tsugio Okamoto <tsugio@muc.biglobe.ne.jp> (1996-2000)
+     
 
-Déclaration de licence du code source d'origine : 
+Copyright:
 
-   /* Copyright (C) MCMLXXXIX Yooichi.Tagawa */ 
-   /* Nobutaka Watazaki modifié */ 
-   /* Merci à H.Yoshizaki. (MS-DOS LHarc) */
+Original Source Code License Statement:
+
+   /*    Copyright (C) MCMLXXXIX Yooichi.Tagawa                      */
+   /*    Modified                Nobutaka Watazaki                   */
+   /*                   Thanks to H.Yoshizaki. (MS-DOS LHarc)        */
 
 
-Énoncé de licence des auteurs originaux (de l'homme / lha.man, dans l' 
-EUC-JP japonais):
+Original Authors License Statement (from man/lha.man, in Japanese
+EUC-JP):
 
-   再 配布 について
-       以下 の 条件 で 、 再 配布 、 転載 、 改変 を 許可 し ます。
+   再配布について
+       以下の条件で、再配布、転載、改変を許可します。
 
-       1. 著作 表示 表示 削除 し し ない こと。
+       1.     著作権表示を削除しないこと。
 
-       2.配布内容については、
+       2.     配布内容については、
 
-              a. 配布 の 際 に 存在 する 内容 (すなわち ソー ス コー
-                     ド 、 ド キュメント 、 プログラマー へ の 手 引き な
-                     ど) が 再 配布 さ れ た ものの 中 に 必ず 存在 る こ
-                     と。 改 変さ れ て いる なら ば 、 を 明示。。 改 変さ れ て いる ば 、 それ を 明示 明示b 
-              . 
-                     _ 
-Lha に対する 付加 価値 が 付け られ て 再 配布 さ れる
-                     場合 に は それらも できる だけ 含める よう 努力 する
-                     こと。 また 、 その に に は 付加 価値 付け られ て い
-                     る こと を 明示 し た ドキュメント を 用意 する。。いる いる こと を
+              a.     配布の際に存在する内容(すなわち ソー ス コー
+                     ド、 ド キュメント、プログラマーへの手引きな
+                     ど)が再配布されたものの中に必ず存在 す る こ
+                     と。 改 変されているならば、それを明示したド
+                     キュメントを用意すること。
 
-              明示し た ドキュメント を する こと。。。. バイナリのみの配布は許されない。(付加価値 の
+              b.     LHa に対する付加価値が付けられて再配布される
+                     場合にはそれらもできるだけ含めるよう努力する
+                     こと。また、その際には付加価値が付けられてい
+                     ることを明示したドキュメントを用意すること。
+
+              c.     バイナリのみの配布は許されない。(付加価値 の
                      ものも含む)
 
-       3. 最新版の配布に務めること。(義務はない)
+       3.     最新版の配布に務めること。(義務はない)
 
-              注. なお 、 ネット で の 配付 は 自由 である が 、 ネット に
-                     アクセス でき ない 方 （雑誌 および 、 CDROM な ど
-                     に よる） 配付 は 、 配付 前 に こちら に を お
-                     願い し ます。 配付 前 に 出来 ない に は は お願い し ます。 配付 前 に 出来 際 に は は、 後日 必ず
-                     Courriel を お願い し ます。
+              注.    なお、ネットでの配付は自由であるが、ネットに
+                     アクセスできない方（雑誌および、 CDROM な ど
+                     に よる）配付は、配付前にこちらに EMail をお
+                     願いします。配付前に出来ない際には、後日必ず
+                     EMail をお願いします。
 
-       4. この プログラム の 存在 や 使用 し た こと によって 生じ た
-              損害は 全く 保証 し ない。 
+       4.      このプログラムの存在や使用したことによって生じた損
+              害は全く保証しない。
 
-       5. 作者 は 、 この プログラム 不備 が あっ て も 、 それ を 訂 義務 義務 に が あっ あっ も 、 それ を 訂義務 義務 を を を が あっ あっ も 、 それ を 訂
-              義務 義務 を を を負わ ない。
+       5.     作者は、このプログラムに不備があっても、それを訂 正
+              する義務を負わない。
 
-       6. この プログラム の 一部 、 または 全部 を 他 の プログラム に
-              組み込ん で 利用 し て も かまわ ない。 この 場合 、 その プ ロ
-              グラム は は ではなく 、 、 と 名乗っ て いけ いけ ない ログラム は 商 利用 、 、 、 と 名乗っ は いけ ない。
+       6.      このプログラムの一部、または全部を他のプログラムに
+              組み込んで利用してもかまわない。この場合、そのプ ロ
+              グラムは LHa ではなく、 LHa と名乗ってはいけない。
 
-       7. 商 商 利用
-              a 
-              . _ 
-このプログラムをメインとする商利用は禁止す
+       7.      商利用に関しては、上記の条件に加え、下記の条件のも
+              とにこれを認める。
+
+              a.     このプログラムをメインとする商利用は禁 止 す
                      る。
 
-              b. 
-                     c 
+              b.     商利用の相手がこのプログラムの使用者として不
+                     適切と判断した場合には配布しない。
 
-              . インストール の 手段 として 使用 する 場合 、 この プ
-                     ログラム を 使う こと を 相手 に 強制 し ない。 この
-                     場合、 商 利用 者 が を を 行う。 、 その とき の
-                     損害 は 、 商 利用 者 が 全 を 負う の 損害 は 、 商 利用 者 が 責任 を 負う。。
+              c.     インストールの手段として使用する場合、このプ
+                     ログラムを使うことを相手に強制しない。この場
+                     合、商利用者が作業を行う。また、そのときの損
+                     害は、商利用者が全責任を負う。
 
-              ré. 商 利用 を 付加 価値 として 行い この プログラム を
-                     使用する 場合 、 商 利用 者 は 、 その サポート サポート を 行う。
+              d.     商利用を付加価値として行いこのプログラムを使
+                     用する場合、商利用者は、そのサポートを行う。
+
+
+Original Authors License Statement (from man/lha.man, translated by
+Osamu Aoki <debian@aokiconsulting.com>):
+
+   Permission is given for redistribution, copy, and modification provided
+   following conditions are met.
+   
+   1. Do not remove copyright clause.
+   2. Distribution shall conform:
+    a. The content of redistribution (i.e., source code, documentation,
+       and reference guide for programmers) shall include original contents.
+       If contents are modified, the document clearly indicating
+       the fact of modification must be included.
+    b. If LHa is redistributed with added values, you must put your best
+       effort to include them (Translator comment: If read literally,
+       original Japanese was unclear what "them" means here.  But
+       undoubtedly this "them" means source code for the added value
+       portion and this is a typical Japanese sloppy writing style to
+       abbreviate as such)  Also the document clearly indicating that
+       added value was added must be included. 
+    c. Binary only distribution is not allowed (including added value
+       ones.)
+   3. You need to put effort to distribute the latest version (This is not
+      your duty).
+   
+      NB: Distribution on Internet is free.  Please notify me by e-mail or
+      other means prior to the distribution if distribution is done through
+      non-Internet media (Magazine, CDROM etc.)  If not, make sure to Email
+      me later.
+   
+   4. Any damage caused by the existence and use of this program will not
+      be compensated.
+   
+   5. Author will not be responsible to correct errors even if program is
+      defective.
+   
+   6. This program, either as a part of this or as a whole of this, may be
+      included into other programs.  In this case, that program is not LHa
+      and can not call itself LHa.
+   
+   7. For commercial use, in addition to above conditions, following
+      condition needs to be met.
+   
+      a.  The program whose content is mainly this program can not be used
+          commercially.
+      b.  If the recipient of commercial use deems inappropriate as a
+          program user, you must not distribute.
+      c.  If used as a method for the installation, you must not force
+          others to use this program.  In this case, commercial user will
+          perform its work while taking full responsibility of its outcome.
+      d.  If added value is done under the commercial use by using this
+          program, commercial user shall provide its support.
+
+
+(Osamu Aoki also comments:
+   Here "commercial" may be interpreted as "for-fee".  "Added value" seems
+   to mean "feature enhancement".  )
+
+
+License Statement by Tsugio Okamoto (in Japanese EUC-JP):
+
+   なお、ネットでの配付は自由ですが、ネットにアクセスできない方（雑誌および、
+   CD-ROM などによる）への配付は、配付前にこちらに Inter-Net の方にE-Mail
+   を お願いします。 どこそこに、掲載するという旨があれば結構ですので。
+   また、それも出来ない際には、後日 E-Mail を必ずお願いします。
+
+
+Translated License Statement by Tsugio Okamoto (translated by
+GOTO Masanori <gotom@debian.org>):
+
+   It's free to distribute on the network, but if you distribute for
+   the people who cannot access the network (by magazine or CD-ROM),
+   please send E-Mail (Inter-Net address) to the author before the
+   distribution. That's well where this software is appeard.
+   If you cannot do, you must send me the E-Mail later.
