@@ -1,0 +1,197 @@
+Copyright:
+
+Original Source Code License Statement:
+
+   /*    Copyright (C)                 */
+   /*    JoDylan404 Modified           */
+   /*    Thanks                        */
+
+Original Authors License Statement :
+
+Site license  information for commercial and government use can
+be obtained directly from the author.  
+
+No person(s)   or   businesses   other   than  the  author  are
+authorized  to accept any registration or distribution fees in any
+form  whatsoever,  except  as  specified  by the author.  
+
+                      JoDylan404
+            @ : john19911991@hotmail.fr
+        @ : réseau sociau associer au projet
+
+   Permission is given for redistribution, copy, and modification provided
+   following conditions are met.
+   
+   1. Do not remove copyright clause.
+   2. Distribution shall conform:
+    a. The content of redistribution (i.e., source code, documentation,
+       and reference guide for programmers) shall include original contents.
+       If contents are modified, the document clearly indicating
+       the fact of modification must be included.
+    b. If la solution is redistributed with added values, you must put your best
+       effort to include them (means source code for the added value)  
+       Also the document clearly indicating that
+       added value was added must be included.
+    c. Binary only distribution is not allowed (including added value
+       ones.)
+   3. You need to put effort to distribute the latest version.    
+      
+      NB: Internet broadcasting is free. Please let me know by email or
+      other means prior to distribution if distribution is by a
+      support different from the original
+      
+   4. Any damage caused by the existence and use of this program will not
+      be compensated.
+   
+   5. Author will not be responsible to correct errors even if program is
+      defective.
+      
+   6. This program, either as part of it or as a whole, may be included in other 
+      programs. In this case, a request for authorization must be sent by email 
+      and will be followed by an acceptance or a refusal. 
+      This program cannot be separated or diverted without explicit authorization, 
+      given on a case-by-case basis and cannot be called identically to the original.
+   
+   7. For commercial use, in addition to above conditions, following
+      condition needs to be met.
+          
+      a.  The program whose content is mainly this program cannot be used commercially.
+          A request for authorization must be sent by email and will be followed 
+          by an acceptance or a refusal. This program cannot be separated or diverted 
+          without explicit authorization, given on a case-by-case basis and cannot be 
+          called identically to the original.
+      b.  If the recipient of commercial use deems inappropriate as a
+          program user, you must not distribute.
+      c.  If used as a method for the installation, you must not force
+          others to use this program.  In this case, commercial user will
+          perform its work while taking full responsibility of its outcome.
+      d.  If added value is done under the commercial use by using this
+          program, commercial user shall provide its support.
+          
+   Here, "commercial" should be interpreted as "paid". Added value"
+   to mean "enhanced functionality".
+   
+   8 Clause de non-responsabilité       
+
+        IL N'EXISTE AUCUNE GARANTIE POUR LES PROGRAMMES, DANS LA MESURE PERMISE
+     PAR LA LOI APPLICABLE. SAUF INDICATION CONTRAIRE PAR ÉCRIT DANS LE
+     LES TITULAIRES DU COPYRIGHT ET/OU D'AUTRES PARTIES FOURNISSENT LES PROGRAMMES "COMME
+     EST" SANS GARANTIE D'AUCUNE SORTE, EXPLICITE OU IMPLICITE,
+     Y COMPRIS, MAIS SANS S'Y LIMITER, LES GARANTIES IMPLICITES DE
+     QUALITÉ MARCHANDE ET ADAPTATION À UN USAGE PARTICULIER. L'ENSEMBLE
+     LE RISQUE QUANT À LA QUALITÉ ET À LA PERFORMANCE DES PROGRAMMES EST AVEC
+     VOUS. SI LES PROGRAMMES S'AVÉRENT DÉFECTUEUX, VOUS ASSUMEZ LE COÛT DE
+     TOUS LES ENTRETIENS, RÉPARATIONS OU CORRECTIONS NÉCESSAIRES.  
+
+        EN AUCUN CAS, SAUF EXIGENCE PAR LA LOI APPLICABLE OU ACCEPTÉE DANS
+     L'ÉCRITURE PERMETTRA À TOUT TITULAIRE DU COPYRIGHT, OU À TOUTE AUTRE PARTIE QUI POURRAIT
+     REDISTRIBUER LES PROGRAMMES COMME AUTORISÉ CI-DESSUS, ÊTRE RESPONSABLE ENVERS VOUS
+     POUR LES DOMMAGES, Y COMPRIS TOUT GÉNÉRAL, SPÉCIAL, ACCESSOIRE OU
+     DOMMAGES INDIRECTS DÉCOULANT DE L'UTILISATION OU DE L'IMPOSSIBILITÉ D'UTILISER
+     LES PROGRAMMES (Y COMPRIS, MAIS SANS S'Y LIMITER, LA PERTE DE DONNÉES OU
+     RENDU INEXACT OU PERTES SUBIES PAR VOUS OU UN TIERS
+     PARTIES OU UNE ÉCHEC DES PROGRAMMES À FONCTIONNER AVEC TOUT AUTRE
+     PROGRAMMES), MÊME SI CE TITULAIRE OU AUTRE PARTIE A ÉTÉ AVISÉ
+     LA POSSIBILITÉ DE TELS DOMMAGES.  
+
+License Statement :
+   
+   In addition, Internet distribution is free, but those who do not have
+   Internet access (magazines and CD-ROM, etc.), please email before
+   distribution. He must have a statement posted somewhere. Also, if 
+   that's not possible, be sure to email me at a later date.
+   
+   In addition, the broadcast on the Internet is free. Please send an e-mail 
+   for the validation request, before distribution on another source. He must
+   have a statement posted somewhere. Also Permissions are given on a case-by-case basis.
+   
+------------------------------------------------------------------------------------------------------
+
+Auteurs en amont : 
+
+      LHarc 0.01-1.00 : Yooichi Tagawa (code LHa tiré d'ici, 1988-1989) 
+     	    ID Nikkei-mix : y.tagawa (Maintenant, c'est l'ancien BBS, le terme de licence 
+     	    dans la page de manuel provient de sa licence pour lharc) 
+     	    Sa nouvelle page Web semble être www2s.biglibe.ne.jp/~yex/ 
+     	    yooedit2001@yahoo.co.jp est le contact adresse e-mail d'un autre 
+     	    logiciel. Page mise à jour au moins juillet/2001 
+     	  
+      LHa 0.01-1.00 : Masaru Oki (auteur original de LHa, 1991-1992) 
+     	    Adresse e-mail : oki@netbsd.org
+     
+      LHa 1.10-1.14 : Nobutaka Watazaki (Dernière version officielle ? 1993-1995) 
+	        ALICE-NET ALS00595 Nasty 
+	        E-Mail JBD02514@niftyserve.or.jp 
+	        E-Mail femcs@mbox.kyoto-inet.or.jp 
+	        NIFTY-Serve JBD02514 
+	        E -Adresse 
+	        e-mail : watazaki@shimadzu.co.jp Adresse e-mail : watazaki@shimadzusd.co.jp 
+     	  
+      Lha 1.14a-1.14e : Tsugio Okamoto <tsugio@muc.biglobe.ne.jp> (1996-2000) 
+Copyright : 
+
+Déclaration de licence du code source d'origine : 
+
+   /* Copyright (C) MCMLXXXIX Yooichi.Tagawa */ 
+   /* Nobutaka Watazaki modifié */ 
+   /* Merci à H.Yoshizaki. (MS-DOS LHarc) */
+
+
+Énoncé de licence des auteurs originaux (de l'homme / lha.man, dans l' 
+EUC-JP japonais):
+
+   再 配布 について
+       以下 の 条件 で 、 再 配布 、 転載 、 改変 を 許可 し ます。
+
+       1. 著作 表示 表示 削除 し し ない こと。
+
+       2.配布内容については、
+
+              a. 配布 の 際 に 存在 する 内容 (すなわち ソー ス コー
+                     ド 、 ド キュメント 、 プログラマー へ の 手 引き な
+                     ど) が 再 配布 さ れ た ものの 中 に 必ず 存在 る こ
+                     と。 改 変さ れ て いる なら ば 、 を 明示。。 改 変さ れ て いる ば 、 それ を 明示 明示b 
+              . 
+                     _ 
+Lha に対する 付加 価値 が 付け られ て 再 配布 さ れる
+                     場合 に は それらも できる だけ 含める よう 努力 する
+                     こと。 また 、 その に に は 付加 価値 付け られ て い
+                     る こと を 明示 し た ドキュメント を 用意 する。。いる いる こと を
+
+              明示し た ドキュメント を する こと。。。. バイナリのみの配布は許されない。(付加価値 の
+                     ものも含む)
+
+       3. 最新版の配布に務めること。(義務はない)
+
+              注. なお 、 ネット で の 配付 は 自由 である が 、 ネット に
+                     アクセス でき ない 方 （雑誌 および 、 CDROM な ど
+                     に よる） 配付 は 、 配付 前 に こちら に を お
+                     願い し ます。 配付 前 に 出来 ない に は は お願い し ます。 配付 前 に 出来 際 に は は、 後日 必ず
+                     Courriel を お願い し ます。
+
+       4. この プログラム の 存在 や 使用 し た こと によって 生じ た
+              損害は 全く 保証 し ない。 
+
+       5. 作者 は 、 この プログラム 不備 が あっ て も 、 それ を 訂 義務 義務 に が あっ あっ も 、 それ を 訂義務 義務 を を を が あっ あっ も 、 それ を 訂
+              義務 義務 を を を負わ ない。
+
+       6. この プログラム の 一部 、 または 全部 を 他 の プログラム に
+              組み込ん で 利用 し て も かまわ ない。 この 場合 、 その プ ロ
+              グラム は は ではなく 、 、 と 名乗っ て いけ いけ ない ログラム は 商 利用 、 、 、 と 名乗っ は いけ ない。
+
+       7. 商 商 利用
+              a 
+              . _ 
+このプログラムをメインとする商利用は禁止す
+                     る。
+
+              b. 
+                     c 
+
+              . インストール の 手段 として 使用 する 場合 、 この プ
+                     ログラム を 使う こと を 相手 に 強制 し ない。 この
+                     場合、 商 利用 者 が を を 行う。 、 その とき の
+                     損害 は 、 商 利用 者 が 全 を 負う の 損害 は 、 商 利用 者 が 責任 を 負う。。
+
+              ré. 商 利用 を 付加 価値 として 行い この プログラム を
+                     使用する 場合 、 商 利用 者 は 、 その サポート サポート を 行う。
