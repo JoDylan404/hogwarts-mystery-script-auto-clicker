@@ -2,14 +2,26 @@
 # SPDX-License-Identifier:
 # This file is maintained in https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker
 github: [JoDylan404, josch]
-custom: [https://earnapp.com/i/83x6lce] [https://sweatco.in/hi/jodylan]
-patreon: [JohnDylan404] [patreon.com/user?u=87526817]
+
+#parainage ##############################################################
+custom: [https://earnapp.com/i/83x6lce] [https://sweatco.in/hi/jodylan] #
+#parainage ##############################################################
+
+patreon: JohnDylan404 [patreon.com/user?u=87526817]
+# fr abonement mensuel 3$/mois (taxe 5% des recettes mensuelles que vous percevez sur Patreon)
+
+open_collectiv: jodylan404 [https://opencollective.com/hogwarts-mystery-script-auto-clicker]
+# en abonement mensuel 5$/mois | 100$/mois | donation (0% taxe)
+
+ko_fi: johndylan404 [https://ko-fi.com/johndylan404] 
+# en donation 5€ | plus d'option taxe 5%
+
 # These are supported funding model platforms
 
 # github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
 # patreon: # Replace with a single Patreon username
-open_collective: # Replace with a single Open Collective username
-ko_fi: # Replace with a single Ko-fi username
+# open_collective: # Replace with a single Open Collective username
+# ko_fi: # Replace with a single Ko-fi username
 tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay username
