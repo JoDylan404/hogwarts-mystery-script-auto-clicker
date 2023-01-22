@@ -14,7 +14,10 @@ open_collectiv: jodylan404 [https://opencollective.com/hogwarts-mystery-script-a
 # en abonement mensuel 5$/mois | 100$/mois | donation (0% taxe)
 
 ko_fi: johndylan404 [https://ko-fi.com/johndylan404] 
-# en donation 5€ | plus d'option taxe 5%
+# en donation 5€ | plus d'option (taxe 5%)
+
+tidelift: [W8 en atente]
+# en gestion OpenSource
 
 # These are supported funding model platforms
 
@@ -22,7 +25,7 @@ ko_fi: johndylan404 [https://ko-fi.com/johndylan404]
 # patreon: # Replace with a single Patreon username
 # open_collective: # Replace with a single Open Collective username
 # ko_fi: # Replace with a single Ko-fi username
-tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
+# tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
 community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
