@@ -23,10 +23,10 @@ community_bridge:
 # en Contactez un expert CBI pour commencer. Processus de contrôle de la qualité basés sur le Web et consiergerie
 
 liberapay: joDylan404
-# Multi langue ~2 % pour les paiements traités par Stripe et de 4,9 % pour les paiements traités par PayPal.
+# Multi langue ~2 % pour les paiements traités par Stripe [4,9 % pour les paiements traités par PayPal non activer].
 
 issuehunt: JoDylan404
-# en plateforme de financement open source 3,6 % seront facturés en tant que frais de transaction.
+# en plateforme de financement open source 3,6 % seront facturés en tant que frais de transaction[retrait uniquement PayPal].
 
 otechie:
 # Free-lance 29 $/mois essai de deux semaines.
