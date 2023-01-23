@@ -19,6 +19,9 @@ ko_fi: johndylan404 # [https://ko-fi.com/johndylan404]
 tidelift: tidelift.com/jodylan404 # [https://community.tidelift.com/jodylan404]
 # en (gestion OpenSource)
 
+community_bridge:
+#en Contactez un expert CBI pour commencer. Processus de contrôle de la qualité basés sur le Web et consiergerie
+
 # These are supported funding model platforms
 
 # github: # Replace with up to 4 GitHub Sponsors-enabled usernames e.g., [user1, user2]
@@ -26,7 +29,7 @@ tidelift: tidelift.com/jodylan404 # [https://community.tidelift.com/jodylan404]
 # open_collective: # Replace with a single Open Collective username
 # ko_fi: # Replace with a single Ko-fi username
 # tidelift: # Replace with a single Tidelift platform-name/package-name e.g., npm/babel
-community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
+# community_bridge: # Replace with a single Community Bridge project-name e.g., cloud-foundry
 liberapay: # Replace with a single Liberapay username
 issuehunt: # Replace with a single IssueHunt username
 otechie: # Replace with a single Otechie username
