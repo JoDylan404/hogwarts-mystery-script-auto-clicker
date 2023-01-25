@@ -1,0 +1,1 @@
+Image used by the script | Image utiliser par le script

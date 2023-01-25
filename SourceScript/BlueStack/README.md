@@ -1,0 +1,1 @@
+Android emulator to run the game | Émulateur androïde pour exécuter le jeu
