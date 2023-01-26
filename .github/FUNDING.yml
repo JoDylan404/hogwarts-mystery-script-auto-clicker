@@ -21,7 +21,7 @@ open_collective: joDylan404 # [https://opencollective.com/hogwarts-mystery-scrip
 ko_fi: johndylan404 # [https://ko-fi.com/johndylan404] 
 # en donation 5€ | plus d'option (taxe 5%)
 
-tidelift: tidelift.com/jodylan404 # [https://community.tidelift.com/jodylan404]
+tidelift: jodylan404 # [https://community.tidelift.com/jodylan404]
 # en (gestion OpenSource)
 
 community_bridge:
@@ -36,7 +36,7 @@ issuehunt: JoDylan404
 otechie:
 # Free-lance 29 $/mois essai de deux semaines web chat.
 
-lfx_crowdfunding: https://crowdfunding.lfx.linuxfoundation.org/projects/16390a1b-b191-462d-a66c-7c7c38ea63c8
+lfx_crowdfunding: 16390a1b-b191-462d-a66c-7c7c38ea63c8
 # Ce projet est en attente d'approbation !
 # This project is pending approval!
 # en taxe ? |faire des dons à des projets open source https://openprofile.dev/profile/JoDylan404
