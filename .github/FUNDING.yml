@@ -8,11 +8,23 @@ github: [JoDylan404,]
 # tidelift: npm/octo-package
 # custom: ["https://www.paypal.me/octocat", octocat.com]
 
-#parainage ################################################################################################################################################################################################
-custom: ["https://earnapp.com/i/83x6lce","https://sweatco.in/hi/jodylan","https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker","https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6"] #
-#parainage ################################################################################################################################################################################################
+#4 custom sponsorship
+custom: [
+"https://earnapp.com/i/83x6lce",                                      #
+"https://sweatco.in/hi/jodylan",                                      #
+"https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker", #
+"https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6"       #
+]
+#4 custom sponsorship
 
 ###############################################################################################################################################
+
+#parainage ############################################
+sweatcoin: https://sweatco.in/hi/jodylan              #
+# remuneration sur la marche et generation de crypto  #
+EarnApp: https://earnapp.com/i/83x6lce                #
+#remuneration sur les raport d'utilisation anonime    #
+#parainage ############################################
 
 lydia: https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker
 #fr 0% de tax 750 € de transactions/ mois
