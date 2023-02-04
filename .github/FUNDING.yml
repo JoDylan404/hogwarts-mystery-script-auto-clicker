@@ -3,38 +3,51 @@
 # This file is maintained in https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker
 github: [JoDylan404,]
 
-# github: [octocat, surftocat]
-# patreon: octocat
-# tidelift: npm/octo-package
-# custom: ["https://www.paypal.me/octocat", octocat.com]
+# 4 custom sponsorship ####################################################
+custom: [                                                                 #
+                                                                          #
+# parainage ###########################################                   #
+                                                      #                   #
+# Earn App                                            #                   #
+# "https://earnapp.com/i/83x6lce",                    #                   #
+# remuneration sur les raport d'utilisation anonime   #                   #
+                                                      #                   #
+# SweatCoin                                           #                   #
+# "https://sweatco.in/hi/jodylan",                    #                   #
+# remuneration sur la marche et generation de crypto  #                   #
+                                                      #                   #
+# parainage ###########################################                   #
+                                                                          #
+# Cagnotte ############################################################## #
+                                                                        # #
+# Lydia                                                                 # #
+"https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker",   # #
+# fr 0% de tax 750 € de transactions/ mois                              # #
+                                                                        # #
+# Leetchi                                                               # #
+"https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery"        # #
+# fr 4 % - de 2000 € | 2,9 % de 2000€ à 200 000 € | 1,9 % + de 200 000 €# #
+                                                                        # #
+# Cagnotte ############################################################## #
+                                                                          #
+# Abonement et donation #############################################     #
+                                                                    #     #
+"https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6"     #     #
+# Transactions par QRcode Supérieures ou égales à 10,01 EUR 0,60 %  #     #
+# + commission fixe QR                                              #     #
+# https://www.paypal.com/fr/webapps/mpp/merchant-fees               #     #
+                                                                    #     #
+# Abonement et don ##################################################     #
+                                                                          #
+]                                                                         #
+# 4 custom sponsorship ####################################################
 
-#4 custom sponsorship
-custom: [
-"https://earnapp.com/i/83x6lce",                                      #
-"https://sweatco.in/hi/jodylan",                                      #
-"https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker", #
-"https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6"       #
-]
-#4 custom sponsorship
+# Stripe
+#
+# 1,4 % + 0,25 € pour les cartes Espace Economique Européen (+1,1% pour les cartes UK)
+# 2,9 % + 0,25 € pour les cartes internationales
 
-###############################################################################################################################################
-
-#parainage ############################################
-sweatcoin: https://sweatco.in/hi/jodylan              #
-# remuneration sur la marche et generation de crypto  #
-EarnApp: https://earnapp.com/i/83x6lce                #
-#remuneration sur les raport d'utilisation anonime    #
-#parainage ############################################
-
-lydia: https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker
-#fr 0% de tax 750 € de transactions/ mois
-
-Paypal: https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6
-# Transactions par QR code – Supérieures ou égales à 10,01 EUR	0,60 % + commission fixe QR
-# https://www.paypal.com/fr/webapps/mpp/merchant-fees
-
-Leetchi: https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery
-#fr 4 % en dessous de 2000 € | 2,9 % de 2000€ à 200 000 € | 1,9 % au dessus de 200 000 €
+#########################################################################################################################
 
 open_collective: hogwarts-mystery-script-auto-clicker # [https://opencollective.com/hogwarts-mystery-script-auto-clicker]
 # en abonement mensuel 5$/mois | 100$/mois | donation (0% taxe)
@@ -78,3 +91,9 @@ lfx_crowdfunding: 16390a1b-b191-462d-a66c-7c7c38ea63c8
 # otechie: # Replace with a single Otechie username
 # lfx_crowdfunding: # Replace with a single LFX Crowdfunding project-name e.g., cloud-foundry
 # custom: # Replace with up to 4 custom sponsorship URLs e.g., ['link1', 'link2']
+
+# exemple :
+# github: [octo, surt]
+# patreon: octat
+# tidelift: npm/o-package
+# custom: ["https://www.paypal.me/t", t.com]
