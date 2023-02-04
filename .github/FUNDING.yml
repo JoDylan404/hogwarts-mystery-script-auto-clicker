@@ -9,7 +9,7 @@ custom: [                                                                 #
 # parainage ###########################################                   #
                                                       #                   #
 # Earn App                                            #                   #
-# "https://earnapp.com/i/83x6lce",                    #                   #
+"https://earnapp.com/i/83x6lce",                      #                   #
 # remuneration sur les raport d'utilisation anonime   #                   #
                                                       #                   #
 # SweatCoin                                           #                   #
@@ -43,7 +43,7 @@ custom: [                                                                 #
 # 4 custom sponsorship ####################################################
 
 # Stripe
-#
+# demande le numero de telephone en public
 # 1,4 % + 0,25 € pour les cartes Espace Economique Européen (+1,1% pour les cartes UK)
 # 2,9 % + 0,25 € pour les cartes internationales
 
