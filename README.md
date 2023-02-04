@@ -9,7 +9,8 @@ Ce projet a pour but de générer des scripts pour automatiser des tâches pour 
     - [Modification](#modification)
   - [Soutenir](#soutenir)
     - [Parainage](#parainage)
-    - [Financement](#financement)
+    - [Cagnotte](#cagnotte)
+    - [Abonement et donnation](#abonement-et-donnation)
   - [Contact](#contact)
 
 ## Usage
@@ -26,7 +27,10 @@ Ce projet a pour but de générer des scripts pour automatiser des tâches pour 
 ## Soutenir
 ### Parainage
 #### <a href="https://earnapp.com/i/83x6lce">EarnEpp</a> | <a href="https://sweatco.in/hi/jodylan">SweatCoin</a>
-### Financement
+### Cagnotte
+#### <a href="https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker">Lydia</a> | <a href="https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery">Leetchi</a>
+### Abonement et donnation
+#### <a href="https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6">PayPal</a>
 
 ## Contact
 ### Pour toute participation, question, demande, détaile et contact : 
