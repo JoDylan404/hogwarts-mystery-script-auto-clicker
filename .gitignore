@@ -1,8 +1,17 @@
-# bloquer le push du DataScript.txt
-# hogwarts-mystery-script-auto-clicker\DataScript\DataScript.txt
-###############
-# /hogwarts-mystery-script-auto-clicker/DataScript/DataScript.txt
-# **/DataScript/DataScript.txt
-# **/DataScript.txt
-# hogwarts-mystery-script-auto-clicker/**/DataScript.txt
-###############
+# bloquer le push de DataLog.txt ################################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataLog.txt   #
+#                                                               #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataLog.txt  #
+# **/DataScript/DataLog.txt                                     #
+# **/DataLog.txt                                                #
+# hogwarts-mystery-script-auto-clicker/**/DataLog.txt           #
+#################################################################
+#                            #                                  #
+# bloquer le push de DataProg.txt ###############################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataProg.txt  #
+#                                                               #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataProg.txt #
+# **/DataScript/DataProg.txt                                    #
+# **/DataProg.txt                                               #
+# hogwarts-mystery-script-auto-clicker/**/DataProg.txt          #
+#################################################################
