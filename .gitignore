@@ -1,17 +1,19 @@
-# bloquer le push de DataLog.txt ################################
-# hogwarts-mystery-script-auto-clicker\DataScript\DataLog.txt   #
-#                                                               #
-# /hogwarts-mystery-script-auto-clicker/DataScript/DataLog.txt  #
-# **/DataScript/DataLog.txt                                     #
-# **/DataLog.txt                                                #
-# hogwarts-mystery-script-auto-clicker/**/DataLog.txt           #
-#################################################################
-#                            #                                  #
-# bloquer le push de DataProg.txt ###############################
-# hogwarts-mystery-script-auto-clicker\DataScript\DataProg.txt  #
-#                                                               #
-# /hogwarts-mystery-script-auto-clicker/DataScript/DataProg.txt #
-# **/DataScript/DataProg.txt                                    #
-# **/DataProg.txt                                               #
-# hogwarts-mystery-script-auto-clicker/**/DataProg.txt          #
-#################################################################
+# bloquer le push de DataLog ################################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataLog   #
+#                                                           #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataLog  #
+# **/DataScript/DataLog                                     #
+# **/DataLog                                                #
+# hogwarts-mystery-script-auto-clicker/**/DataLog           #
+#############################################################
+
+#                          #                                #
+
+# bloquer le push de DataProg ###############################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataProg  #
+#                                                           #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataProg #
+# **/DataScript/DataProg                                    #
+# **/DataProg                                               #
+# hogwarts-mystery-script-auto-clicker/**/DataProg          #
+#############################################################
