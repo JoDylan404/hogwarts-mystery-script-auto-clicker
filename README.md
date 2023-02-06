@@ -43,6 +43,8 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 2) Utiliser le fichier hogwarts-mystery-script-auto-clicker\DataScript\DataProg pour afficher la progression des instances du script.
 - Pour demander la creation d'une branche et ajouter votre interface graphique au projet suivez les lien [Contact et suport](#contact-et-suport).
 
+  ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
+
   merci de formuler votre demande en utilisant les template dans ".github/ISSUE_TEMPLATE"
 
 ### Script
@@ -73,6 +75,8 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 3) Utiliser le fichier hogwarts-mystery-script-auto-clicker\DataScript\DataLog pour les commandes des instances du script à éffectuer.
 4) Utiliser le fichier hogwarts-mystery-script-auto-clicker\DataScript\DataProg pour afficher la progression des instances du script
 - Pour demander la creation d'une branche et ajouter votre script au projet suivez les lien [Contact et suport](#contact-et-suport).
+
+  ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
   
   merci de formuler votre demande en utilisant les template dans ".github/ISSUE_TEMPLATE"
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
