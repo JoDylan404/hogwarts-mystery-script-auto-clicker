@@ -6,6 +6,8 @@ Ce projet a pour but de générer des scripts pour automatiser des tâches pour 
 
 Il n'a pas pour but de scripter les actions pour Rush le jeu.
 
+Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
+
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [hogwarts-mystery-script-auto-clicker](#hogwarts-mystery-script-auto-clicker)
   - [Usage](#usage)
