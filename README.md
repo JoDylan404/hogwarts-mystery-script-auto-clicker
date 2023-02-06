@@ -4,8 +4,6 @@
 
 Ce projet a pour but de générer des scripts pour automatiser des tâches pour une journée de jeux. 
 
-Il n'a pas pour but de scripter les actions pour Rush le jeu.
-
 Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 
 -----------------------------------------------------------------------------------------------------------------------------------------------------------------
