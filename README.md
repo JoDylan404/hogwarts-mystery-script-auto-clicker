@@ -26,6 +26,32 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
     - [Abonement et donnation](#abonement-et-donnation--paypal--transactions-supérieures-ou-égales-à-1001-eur-060--de-taxe)
   - [Contact et suport](#contact-et-suport)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
+<details id=1>
+<summary><h2>Usage</h2> : </summary>
+  <details id=11>
+  <summary><h3>Interface graphique</h3> : </summary>
+    <details id=111>
+    <summary><h4>Prérequis interface graphique</h4> : </summary>
+    bla bla
+    </details>
+    <details id=112>
+    <summary><h4>Utilisation interface graphique</h4> : </summary>
+    </details>
+    <details id=113>
+    <summary><h4>Modification interface graphique</h4> : </summary>
+    </details>
+  </details>
+  <details id=12>
+  <summary><h3>Script</h3> : </summary>
+  </details>
+</details>
+<details id=2>
+<summary><h2>Soutenir</h2> : </summary>
+</details>
+<details id=3>
+<summary><h2>Contact et suport</h2> : </summary>
+</details>
+
 ## Usage
 ### Interface graphique
 #### Prérequis interface graphique
@@ -82,7 +108,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
   
     merci de formuler votre demande en utilisant les template dans ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-### Soutenir
+## Soutenir
 > ##### Parainage : <a href="https://earnapp.com/i/83x6lce">EarnApp</a> | <a href="https://sweatco.in/hi/jodylan">SweatCoin</a>
 > ##### Cagnotte : <a href="https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker">Lydia</a> 0% de taxe | <a href="https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery">Leetchi</a> 2% de taxe
 > ##### Abonement et donnation : <a href="https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6">PayPal</a>  Transactions Supérieures ou égales à 10,01 EUR 0,60 % de taxe
