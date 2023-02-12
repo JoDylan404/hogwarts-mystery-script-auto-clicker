@@ -83,12 +83,9 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
     merci de formuler votre demande en utilisant les template dans ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Soutenir
-##### Parainage
-###### <a href="https://earnapp.com/i/83x6lce">EarnEpp</a> | <a href="https://sweatco.in/hi/jodylan">SweatCoin</a>
-##### Cagnotte
-###### <a href="https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker">Lydia</a> 0% de taxe | <a href="https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery">Leetchi</a> 2% de taxe
-##### Abonement et donnation
-###### <a href="https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6">PayPal</a>  Transactions Supérieures ou égales à 10,01 EUR 0,60 % de taxe
+> ##### Parainage : <a href="https://earnapp.com/i/83x6lce">EarnEpp</a> | <a href="https://sweatco.in/hi/jodylan">SweatCoin</a>
+> ##### Cagnotte : <a href="https://lydia-app.com/pots?id=hogwarts-mystery-script-auto-clicker">Lydia</a> 0% de taxe | <a href="https://www.leetchi.com/c/script-auto-clicker-hogwarts-mystery">Leetchi</a> 2% de taxe
+> ##### Abonement et donnation : <a href="https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6">PayPal</a>  Transactions Supérieures ou égales à 10,01 EUR 0,60 % de taxe
 ## Contact et suport
 #### Pour toute participation, question, demande, détaile et contact : 
 > ###### Facebook : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
