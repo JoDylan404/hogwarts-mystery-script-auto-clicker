@@ -91,8 +91,9 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 ###### <a href="https://www.paypal.com/donate/?hosted_button_id=2LXKW9JGBMFM6">PayPal</a>  Transactions Supérieures ou égales à 10,01 EUR 0,60 % de taxe
 ## Contact et suport
 #### Pour toute participation, question, demande, détaile et contact : 
-###### @ comunication : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
-###### @ contact : john19911991@hotmail.fr
-###### Merci de formuler votre demande en utilisant les template dans ".github/ISSUE_TEMPLATE" si possible.
+> ###### Facebook : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
+> ###### Reddit : https://www.reddit.com/r/HogwartsMysteryHP/comments/110psh4/script_auto_clicker_for_hogwarts_mystery/
+> ###### Email : john19911991@hotmail.fr
+###### Merci de formuler votre demande en utilisant si possible les template dans : ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))" .
 ---
 By [JoDylan404](https://github.com/JoDylan404)
