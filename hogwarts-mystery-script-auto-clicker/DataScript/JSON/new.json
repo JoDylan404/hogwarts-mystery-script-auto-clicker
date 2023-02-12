@@ -1,0 +1,18 @@
+{
+	"skillz": {
+		"database": 
+		[{
+			"name": "sql",
+			"years": "7"
+		}],
+		"web": 
+		[{
+			"name": "html",
+			"years": "5"
+		},
+		{
+			"name": "css",
+			"years": "3"
+		}]
+	}
+}

@@ -17,3 +17,46 @@
 # **/DataProg                                               #
 # hogwarts-mystery-script-auto-clicker/**/DataProg          #
 #############################################################
+
+#                          #                                #
+
+# bloquer le push de DataItem ###############################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataItem  #
+#                                                           #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataItem #
+# **/DataScript/DataItem                                    #
+# **/DataItem                                               #
+# hogwarts-mystery-script-auto-clicker/**/DataItem          #
+#############################################################
+
+#                          #                                #
+
+# bloquer le push de DataLieu ###############################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataLieu  #
+#                                                           #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataLieu #
+# **/DataScript/DataLieu                                    #
+# **/DataLieu                                               #
+# hogwarts-mystery-script-auto-clicker/**/DataLieu          #
+#############################################################
+
+#                          #                                #
+
+# bloquer le push de DataExec ###############################
+# hogwarts-mystery-script-auto-clicker\DataScript\DataExec  #
+#                                                           #
+# /hogwarts-mystery-script-auto-clicker/DataScript/DataExec #
+# **/DataScript/DataExec                                    #
+# **/DataExec                                               #
+# hogwarts-mystery-script-auto-clicker/**/DataExec          #
+#############################################################
+
+#                          #                                #
+
+# bloquer le push des fichier dans DataScript ###########
+# hogwarts-mystery-script-auto-clicker\DataScript\*  	#
+#                                                    	#
+# /hogwarts-mystery-script-auto-clicker/DataScript/* 	#
+# **/DataScript/*                                    	#
+# hogwarts-mystery-script-auto-clicker/**/DataScript    #
+#########################################################
