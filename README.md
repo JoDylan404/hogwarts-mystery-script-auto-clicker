@@ -38,7 +38,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
     - Lancer [hogwarts-mystery-script-auto-clicker](/hogwarts-mystery-script-auto-clicker)\ [SCRIPT_HOGWARD_MYSTERY.exe](/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe)
 2) Renseigner les lieux et item dans la fenêtre accesible depuit l'onglet lieu et item du menu et selectioner "OK".
 3) Selectioner les parametre de l'instance d'execution du scripte dans l'interface graphyque.
-3) Cliquer sur "Executer" <span ">![IconeExecuter style="color: #26B260](hogwarts-mystery-script-auto-clicker/img/executer.PNG "IconeExecuter")</span> dans l'interface graphyque.
+3) Cliquer sur "Executer" ![IconeExecuter style="color: #26B260](hogwarts-mystery-script-auto-clicker/img/executer.PNG "IconeExecuter") dans l'interface graphyque.
 4) le script s'execute
 #### Modification interface graphique
 1) Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\ [Data*](hogwarts-mystery-script-auto-clicker/DataScript/) pour les commandes des instances du script à éffectuer et pour afficher la progression : ([DataExec](hogwarts-mystery-script-auto-clicker/DataScript/DataExec), [DataItem](hogwarts-mystery-script-auto-clicker/DataScript/DataItem), [DataLieu](hogwarts-mystery-script-auto-clicker/DataScript/DataLieu), [DataLog](hogwarts-mystery-script-auto-clicker/DataScript/DataLog), [DataProg](hogwarts-mystery-script-auto-clicker/DataScript/DataProg)...)
@@ -70,10 +70,8 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
   3) Cliquer sur "PLAY" ![IconePlay](SourceScript/AMK/AMK_v6.3.8.6/images/start.png "IconePlay") ou ["Shif" + "F1"]
   4) Le script s'execute
 #### Modification script
-1) Lancer SourceScript\AMK\AMK_v6.3.8.6\AutoMouseKey.exe et ouvrer les fichier en ".json" contenue dans "hogwarts-mystery-script-auto-clicker\"
-
-    exemple : hogwarts-mystery-script-auto-clicker\instance.json
-2) modifier et enregistrer les modification dans hogwarts-mystery-script-auto-clicker\
+1) Lancer SourceScript\AMK\ [AMK_v6.3.8.6](SourceScript/AMK/AMK_v6.3.8.6)\ [AutoMouseKey.exe](SourceScript/AMK/AMK_v6.3.8.6/AutoMouseKey.exe) et ouvrer le fichier [hogwarts-mystery-script-auto-clicker](hogwarts-mystery-script-auto-clicker)\ [instance.json](hogwarts-mystery-script-auto-clicker/instance.json)
+2) modifier et enregistrer les modification dans [hogwarts-mystery-script-auto-clicker](hogwarts-mystery-script-auto-clicker)
 3) Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\ [Data*](hogwarts-mystery-script-auto-clicker/DataScript/) pour les commandes des instances du script à éffectuer et pour afficher la progression : ([DataExec](hogwarts-mystery-script-auto-clicker/DataScript/DataExec), [DataItem](hogwarts-mystery-script-auto-clicker/DataScript/DataItem), [DataLieu](hogwarts-mystery-script-auto-clicker/DataScript/DataLieu), [DataLog](hogwarts-mystery-script-auto-clicker/DataScript/DataLog), [DataProg](hogwarts-mystery-script-auto-clicker/DataScript/DataProg)...)
 4) ##### Mode Débug 
     > Aprés modification, vous pouvez executer le script étape par étape en selectionant le mode debug ![IconeDebug](SourceScript/AMK/AMK_v6.3.8.6/images/debug.png "IconeDebug")
@@ -82,7 +80,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 
   ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
   
-  merci de formuler votre demande en utilisant les template dans ".github/ISSUE_TEMPLATE"
+    merci de formuler votre demande en utilisant les template dans ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### Soutenir
 ##### Parainage
