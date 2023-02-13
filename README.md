@@ -15,7 +15,7 @@ Ce(tte) œuvre est mise à disposition selon les termes de la :
 > <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.  
 > 1) Avec réstriction de la distribution du code source sous  
 > [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) [ [License compatiblility : CC BY-NC-SA 4.0/GPLv3](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) | [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
-> 2) Avec réstriction Partager/Copier/Redistribuer/Mofification : Doit être sans frai, valider et ajouter au dépot sous :   
+> 2) Avec réstriction Partager/Copier/Redistribuer/Modifier : Doit être sans frai, valider et ajouter au dépot sous :   
 > [License Lha](https://directory.fsf.org/wiki/License:Lha) & 
 > [License RHeCos-1.1](https://directory.fsf.org/wiki/License:RHeCos-1.1) & 
 > [License Aladdin](https://directory.fsf.org/wiki/License:Aladdin) en plus de la [Licence Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) & [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
