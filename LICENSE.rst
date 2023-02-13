@@ -1,5 +1,4 @@
-Licence publique internationale Creative Commons Attribution Share Alike 4.0	cc-by-sa-4.0   
-
+Creative Commons Attribution Share Alike 4.0  
 
 Licence publique internationale Creative Commons Attribution-Pas d'utilisation commerciale-Partage dans les mêmes conditions 4.0
 En exerçant les droits sous licence (définis ci-dessous), vous acceptez et acceptez d'être lié par les termes et conditions de cette licence publique internationale Creative Commons Attribution-Pas d'utilisation commerciale-Partage dans les mêmes conditions 4.0 ("Licence publique"). Dans la mesure où cette licence publique peut être interprétée comme un contrat, les droits sous licence vous sont accordés en contrepartie de votre acceptation de ces termes et conditions, et le concédant vous accorde ces droits en contrepartie des avantages que le concédant reçoit de la mise à disposition du matériel sous licence. en vertu de ces termes et conditions.
