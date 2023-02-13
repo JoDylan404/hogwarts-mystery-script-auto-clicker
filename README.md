@@ -8,8 +8,18 @@ Pour toute participation, question, demande (ajout de licence comercial...), dé
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6950/badge)](https://bestpractices.coreinfrastructure.org/projects/6950)
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
-<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>  
-Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0)
+
+Ce(tte) œuvre est mise à disposition selon les termes de la :  
+> <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.  
+> * Avec réstriction pour les conditions spécifiques concernant la distribution du code source :  
+> [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) [ [License compatiblility : CC BY-NC-SA 4.0/GPLv3](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) | [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
+> * Avec restriction pour Partager copier redistribuer le matériel sur n'importe quel support ou format :  
+> Doit être sans frai, valider et ajouter au dépot.  
+> [License Lha](https://directory.fsf.org/wiki/License:Lha) & 
+> [License RHeCos-1.1](https://directory.fsf.org/wiki/License:RHeCos-1.1) & 
+> [License Aladdin](https://directory.fsf.org/wiki/License:Aladdin))
 
 Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 
@@ -39,10 +49,32 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
   <summary><h3>Interface graphique</h3> : </summary>
     <details id=111>
     <summary><h4>Prérequis interface graphique</h4> : </summary>
-    bla bla
+    1) Systeme d'expoitation sous windows
     </details>
     <details id=112>
     <summary><h4>Utilisation interface graphique</h4> : </summary>
+    <ol>
+      <li>
+         <ul>
+          <li>Lancer le <a rel="main.exe" href="/main.exe">main.exe</a> à la 
+            <a rel="racine du projet" href="https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker">racine du projet</a>.</li>
+           ------- ou ---------</br>
+          <li>Lancer 
+            <a rel="/hogwarts-mystery-script-auto-clicker" href="/hogwarts-mystery-script-auto-clicker">hogwarts-mystery-script-auto-clicker</a> \
+            <a rel="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe" 
+               href="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe">SCRIPT_HOGWARD_MYSTERY.exe</a>.
+          </li>
+        </ul>
+      <li>
+        Renseigner les lieux et item dans la fenêtre accesible depuit l'onglet lieu et item du menu et selectioner "OK".
+      <li>
+        Selectioner les parametre de l'instance d'execution du scripte dans l'interface graphyque.
+      <li>
+        Cliquer sur "Executer" <img src="hogwarts-mystery-script-auto-clicker/img/executer.PNG" alt="IconeExecuter" title="IconeExecuter"> dans l'interface graphyque.
+      <li>
+        Le script s'execute
+      </li>
+    </ol>
     </details>
     <details id=113>
     <summary><h4>Modification interface graphique</h4> : </summary>
@@ -50,10 +82,37 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
   </details>
   <details id=12>
   <summary><h3>Script</h3> : </summary>
+    <details id=121>
+    <summary><h4>Prérequis script</h4> : </summary>
+    </details>
+    <details id=122>
+    <summary><h4>Utilisation script</h4> : </summary>
+      <details id=1221>
+      <summary><h5>Avec interface graphique</h5> : </summary>
+      </details>
+      <details id=1222>
+      <summary><h5>Manuelment</h5> : </summary>
+      </details>
+    </details>
+    <details id=123>
+    <summary><h4>Modification script</h4> : </summary>
+      <details id=1231>
+      <summary><h5>Mode Débug</h5> : </summary>
+      </details>
+    </details>
   </details>
 </details>
 <details id=2>
 <summary><h2>Soutenir</h2> : </summary>
+  <details id=21>
+  <summary><h3>Parainage</h3> : </summary>
+  </details>
+  <details id=22>
+  <summary><h3>Cagnotte</h3> : </summary>
+  </details>
+  <details id=23>
+  <summary><h3>Abonement et donnation</h3> : </summary>
+  </details>
 </details>
 <details id=3>
 <summary><h2>Contact et suport</h2> : </summary>
@@ -124,6 +183,12 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 > ###### Facebook : https://www.facebook.com/groups/2049128385357987/permalink/3377153605888785/
 > ###### Reddit : https://www.reddit.com/r/HogwartsMysteryHP/comments/110psh4/script_auto_clicker_for_hogwarts_mystery/
 > ###### Email : john19911991@hotmail.fr
-###### Merci de formuler votre demande en utilisant si possible les template dans : ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))" .
+###### Merci de formuler votre demande en utilisant si possible les template dans : ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))".
+This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License :  
+> * Avec réstriction pour les conditions spécifiques concernant la distribution du code source :  
+> [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) [ [License compatiblility : CC BY-NC-SA 4.0/GPLv3 ](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
+> * Avec restriction pour Partager copier redistribuer le matériel sur n'importe quel support ou format :  
+    - Doit être sans frai, valider et ajouter au dépot.  
+  * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 ---
 By [JoDylan404](https://github.com/JoDylan404)
