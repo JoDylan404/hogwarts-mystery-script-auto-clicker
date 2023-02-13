@@ -21,101 +21,6 @@ Ce(tte) œuvre est mise à disposition selon les termes de la :
 Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir-1) pour l'améliorer!
 
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
-<details id=1>
-<summary><h2>Usage</h2> : </summary>
-  <details id=11>
-  <summary><h3>Interface graphique</h3> : </summary>
-    <details id=111>
-    <summary><h4>Prérequis interface graphique</h4> : </summary>
-    1) Systeme d'expoitation sous windows
-    </details>
-    <details id=112>
-    <summary><h4>Utilisation interface graphique</h4> : </summary>
-    <ol>
-      <li>
-         <ul>
-          <li>Lancer le <a rel="main.exe" href="/main.exe">main.exe</a> à la 
-            <a rel="racine du projet" href="https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker">racine du projet</a>.</li>
-           ------- ou ---------<br/>
-          <li>Lancer 
-            <a rel="/hogwarts-mystery-script-auto-clicker" href="/hogwarts-mystery-script-auto-clicker">hogwarts-mystery-script-auto-clicker</a> \
-            <a rel="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe" 
-               href="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe">SCRIPT_HOGWARD_MYSTERY.exe</a>.
-          </li>
-        </ul>
-      <li>
-        Renseigner les lieux et item dans la fenêtre accesible depuit l'onglet lieu et item du menu et selectioner "OK".
-      <li>
-        Selectioner les parametre de l'instance d'execution du scripte dans l'interface graphyque.
-      <li>
-        Cliquer sur "Executer"  <img src="hogwarts-mystery-script-auto-clicker/img/executer.PNG" alt="IconeExecuter" title="IconeExecuter">  dans l'interface graphyque.
-      <li>
-        Le script s'execute
-      </li>
-    </ol>
-    </details>
-    <details id=113>
-    <summary><h4>Modification interface graphique</h4> : </summary>
-    <ol>
-      <li>
-        Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\<a rel="hogwarts-mystery-script-auto-clicker/DataScript/" href="hogwarts-mystery-script-auto-clicker/DataScript/">Data*</a> pour les commandes des instances du script à éffectuer et pour afficher la progression : <br/>
-<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataExec" href="hogwarts-mystery-script-auto-clicker/DataScript/DataExec">DataExec</a>, 
-<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataItem" href="hogwarts-mystery-script-auto-clicker/DataScript/DataItem">DataItem</a>, 
-<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu">DataLieu</a>, 
-<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLog" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLog">DataLog</a>, 
-<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataProg" href="hogwarts-mystery-script-auto-clicker/DataScript/DataProg">DataProg</a>...)
-      </li>
-    </ol>
-    <ul>
-      <li>
-        Pour demander la creation d'une branche et ajouter votre interface graphique au projet suivez les lien 
-        <a rel="Contact et suport" href="#contact-et-suport-1">Contact et suport</a>.<br/>
-        Ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json <br/>
-        Merci de formuler votre demande en utilisant les template dans ".github/<a rel="ISSUE_TEMPLATE" href=".github/ISSUE_TEMPLATE/">ISSUE_TEMPLATE</a>"<br/>
-        ( <a rel="bug_report.md" href=".github/ISSUE_TEMPLATE/bug_report.md">bug_report.md</a>, <a rel="custom.md" href=".github/ISSUE_TEMPLATE/custom.md">custom.md</a>, <a rel="feature_request.md" href=".github/ISSUE_TEMPLATE/feature_request.md">feature_request.md</a> )
-      </li>
-    </ul>
-    </details>
-  </details>
-  <details id=12>
-  <summary><h3>Script</h3> : </summary>
-    <details id=121>
-    <summary><h4>Prérequis script</h4> : </summary>
-    </details>
-    <details id=122>
-    <summary><h4>Utilisation script</h4> : </summary>
-      <details id=1221>
-      <summary><h5>Avec interface graphique</h5> : </summary>
-      </details>
-      <details id=1222>
-      <summary><h5>Manuelment</h5> : </summary>
-      </details>
-    </details>
-    <details id=123>
-    <summary><h4>Modification script</h4> : </summary>
-      <details id=1231>
-      <summary><h5>Mode Débug</h5> : </summary>
-      </details>
-    </details>
-  </details>
-</details>
-<details id=2>
-<summary><h2>Soutenir</h2> : </summary>
-  <details id=21>
-  <summary><h3>Parainage</h3> : </summary>
-  </details>
-  <details id=22>
-  <summary><h3>Cagnotte</h3> : </summary>
-  </details>
-  <details id=23>
-  <summary><h3>Abonement et donnation</h3> : </summary>
-  </details>
-</details>
-<details id=3>
-<summary><h2>Contact et suport</h2> : </summary>
-</details>
-
----------------------------------------------------------------------------------------------------------------------------------------------------------------
 - [hogwarts-mystery-script-auto-clicker](#hogwarts-mystery-script-auto-clicker)
   - [Usage](#usage-1)
     - [Interface graphique](#interface-graphique-1)
@@ -211,4 +116,99 @@ This work is licensed under the Creative Commons Attribution-NonCommercial-Share
 > [License Aladdin](https://directory.fsf.org/wiki/License:Aladdin) en plus de la [Licence Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) & [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
   * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 ---
-By [JoDylan404](https://github.com/JoDylan404)
+
+By [JoDylan404](https://github.com/JoDylan404)  
+
+<details id=1>
+<summary><h2>Usage</h2> : </summary>
+  <details id=11>
+  <summary><h3>Interface graphique</h3> : </summary>
+    <details id=111>
+    <summary><h4>Prérequis interface graphique</h4> : </summary>
+    1) Systeme d'expoitation sous windows
+    </details>
+    <details id=112>
+    <summary><h4>Utilisation interface graphique</h4> : </summary>
+    <ol>
+      <li>
+         <ul>
+          <li>Lancer le <a rel="main.exe" href="/main.exe">main.exe</a> à la 
+            <a rel="racine du projet" href="https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker">racine du projet</a>.</li>
+           ------- ou ---------<br/>
+          <li>Lancer 
+            <a rel="/hogwarts-mystery-script-auto-clicker" href="/hogwarts-mystery-script-auto-clicker">hogwarts-mystery-script-auto-clicker</a> \
+            <a rel="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe" 
+               href="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe">SCRIPT_HOGWARD_MYSTERY.exe</a>.
+          </li>
+        </ul>
+      <li>
+        Renseigner les lieux et item dans la fenêtre accesible depuit l'onglet lieu et item du menu et selectioner "OK".
+      <li>
+        Selectioner les parametre de l'instance d'execution du scripte dans l'interface graphyque.
+      <li>
+        Cliquer sur "Executer"  <img src="hogwarts-mystery-script-auto-clicker/img/executer.PNG" alt="IconeExecuter" title="IconeExecuter">  dans l'interface graphyque.
+      <li>
+        Le script s'execute
+      </li>
+    </ol>
+    </details>
+    <details id=113>
+    <summary><h4>Modification interface graphique</h4> : </summary>
+    <ol>
+      <li>
+        Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\<a rel="hogwarts-mystery-script-auto-clicker/DataScript/" href="hogwarts-mystery-script-auto-clicker/DataScript/">Data*</a> pour les commandes des instances du script à éffectuer et pour afficher la progression : <br/>
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataExec" href="hogwarts-mystery-script-auto-clicker/DataScript/DataExec">DataExec</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataItem" href="hogwarts-mystery-script-auto-clicker/DataScript/DataItem">DataItem</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu">DataLieu</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLog" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLog">DataLog</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataProg" href="hogwarts-mystery-script-auto-clicker/DataScript/DataProg">DataProg</a>...)
+      </li>
+    </ol>
+    <ul>
+      <li>
+        Pour demander la creation d'une branche et ajouter votre interface graphique au projet suivez les lien 
+        <a rel="Contact et suport" href="#contact-et-suport-1">Contact et suport</a>.<br/>
+        Ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json <br/>
+        Merci de formuler votre demande en utilisant les template dans ".github/<a rel="ISSUE_TEMPLATE" href=".github/ISSUE_TEMPLATE/">ISSUE_TEMPLATE</a>"<br/>
+        ( <a rel="bug_report.md" href=".github/ISSUE_TEMPLATE/bug_report.md">bug_report.md</a>, <a rel="custom.md" href=".github/ISSUE_TEMPLATE/custom.md">custom.md</a>, <a rel="feature_request.md" href=".github/ISSUE_TEMPLATE/feature_request.md">feature_request.md</a> )
+      </li>
+    </ul>
+    </details>
+  </details>
+  <details id=12>
+  <summary><h3>Script</h3> : </summary>
+    <details id=121>
+    <summary><h4>Prérequis script</h4> : </summary>
+    </details>
+    <details id=122>
+    <summary><h4>Utilisation script</h4> : </summary>
+      <details id=1221>
+      <summary><h5>Avec interface graphique</h5> : </summary>
+      </details>
+      <details id=1222>
+      <summary><h5>Manuelment</h5> : </summary>
+      </details>
+    </details>
+    <details id=123>
+    <summary><h4>Modification script</h4> : </summary>
+      <details id=1231>
+      <summary><h5>Mode Débug</h5> : </summary>
+      </details>
+    </details>
+  </details>
+</details>
+<details id=2>
+<summary><h2>Soutenir</h2> : </summary>
+  <details id=21>
+  <summary><h3>Parainage</h3> : </summary>
+  </details>
+  <details id=22>
+  <summary><h3>Cagnotte</h3> : </summary>
+  </details>
+  <details id=23>
+  <summary><h3>Abonement et donnation</h3> : </summary>
+  </details>
+</details>
+<details id=3>
+<summary><h2>Contact et suport</h2> : </summary>
+</details>
