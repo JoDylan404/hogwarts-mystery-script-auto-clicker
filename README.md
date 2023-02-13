@@ -69,7 +69,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
       <li>
         Selectioner les parametre de l'instance d'execution du scripte dans l'interface graphyque.
       <li>
-        Cliquer sur "Executer" <img src="hogwarts-mystery-script-auto-clicker/img/executer.PNG" alt="IconeExecuter" title="IconeExecuter"> dans l'interface graphyque.
+        Cliquer sur "Executer"  <img src="hogwarts-mystery-script-auto-clicker/img/executer.PNG" alt="IconeExecuter" title="IconeExecuter">  dans l'interface graphyque.
       <li>
         Le script s'execute
       </li>
@@ -77,6 +77,15 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
     </details>
     <details id=113>
     <summary><h4>Modification interface graphique</h4> : </summary>
+    <ol>
+      <li>
+        Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\ [Data*](hogwarts-mystery-script-auto-clicker/DataScript/) pour les commandes des instances du script à éffectuer et pour afficher la progression : ([DataExec](hogwarts-mystery-script-auto-clicker/DataScript/DataExec), [DataItem](hogwarts-mystery-script-auto-clicker/DataScript/DataItem), [DataLieu](hogwarts-mystery-script-auto-clicker/DataScript/DataLieu), [DataLog](hogwarts-mystery-script-auto-clicker/DataScript/DataLog), [DataProg](hogwarts-mystery-script-auto-clicker/DataScript/DataProg)...)
+      </li>
+    </ol>
+    <ul>
+      <li>
+      </li>
+    </ul>
     </details>
   </details>
   <details id=12>
