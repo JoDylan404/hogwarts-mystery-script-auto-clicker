@@ -2,107 +2,429 @@ Attribution-ShareAlike 4.0 International
 
 =======================================================================
 
-Licence publique internationale Creative Commons Attribution-Pas d'utilisation commerciale-Partage dans les mêmes conditions 4.0
-En exerçant les droits sous licence (définis ci-dessous), vous acceptez et acceptez d'être lié par les termes et conditions de cette licence publique internationale Creative Commons Attribution-Pas d'utilisation commerciale-Partage dans les mêmes conditions 4.0 ("Licence publique"). Dans la mesure où cette licence publique peut être interprétée comme un contrat, les droits sous licence vous sont accordés en contrepartie de votre acceptation de ces termes et conditions, et le concédant vous accorde ces droits en contrepartie des avantages que le concédant reçoit de la mise à disposition du matériel sous licence. en vertu de ces termes et conditions.
+Creative Commons Corporation ("Creative Commons") is not a law firm and
+does not provide legal services or legal advice. Distribution of
+Creative Commons public licenses does not create a lawyer-client or
+other relationship. Creative Commons makes its licenses and related
+information available on an "as-is" basis. Creative Commons gives no
+warranties regarding its licenses, any material licensed under their
+terms and conditions, or any related information. Creative Commons
+disclaims all liability for damages resulting from their use to the
+fullest extent possible.
 
-Article 1 – Définitions.
+Using Creative Commons Public Licenses
 
-Matériel adapté désigne le matériel soumis au droit d'auteur et aux droits similaires qui est dérivé ou basé sur le matériel sous licence et dans lequel le matériel sous licence est traduit, altéré, arrangé, transformé ou autrement modifié d'une manière nécessitant une autorisation en vertu du droit d'auteur et des droits similaires détenus par le Concédant. Aux fins de cette licence publique, lorsque le matériel sous licence est une œuvre musicale, une performance ou un enregistrement sonore, le matériel adapté est toujours produit lorsque le matériel sous licence est synchronisé en relation temporelle avec une image en mouvement.
-Licence d'adaptateur désigne la licence que vous appliquez à vos droits d'auteur et droits similaires dans vos contributions au matériel adapté conformément aux termes et conditions de la présente licence publique.
-Licence compatible BY-NC-SA désigne une licence répertoriée sur creativecommons.org/compatiblelicenses , approuvée par Creative Commons comme essentiellement l'équivalent de cette licence publique.
-Droit d'auteur et droits similaires désigne le droit d'auteur et/ou les droits similaires étroitement liés au droit d'auteur, y compris, sans s'y limiter, l'exécution, la diffusion, l'enregistrement sonore et les droits de base de données sui generis, sans égard à la façon dont les droits sont étiquetés ou classés. Aux fins de la présente licence publique, les droits spécifiés à la section 2(b)(1)-(2) ne sont pas des droits d'auteur et des droits similaires.
-Les mesures techniques efficaces désignent les mesures qui, en l'absence d'autorité compétente, ne peuvent être contournées en vertu des lois remplissant les obligations en vertu de l'article 11 du Traité de l'OMPI sur le droit d'auteur adopté le 20 décembre 1996 et/ou d'accords internationaux similaires.
-Exceptions et limitations désignent l'utilisation équitable, l'utilisation équitable et/ou toute autre exception ou limitation au droit d'auteur et aux droits similaires qui s'applique à votre utilisation du matériel sous licence.
-Éléments de licence désigne les attributs de licence répertoriés dans le nom d'une licence publique Creative Commons. Les éléments de licence de cette licence publique sont Attribution, Non Commercial et ShareAlike.
-Matériel sous licence désigne l'œuvre artistique ou littéraire, la base de données ou tout autre matériel auquel le Concédant a appliqué la présente Licence publique.
-Droits sous licence désigne les droits qui vous sont accordés sous réserve des termes et conditions de cette licence publique, qui sont limités à tous les droits d'auteur et droits similaires qui s'appliquent à votre utilisation du matériel sous licence et que le concédant a le pouvoir d'accorder sous licence.
-Concédant désigne la ou les personnes ou entités accordant des droits en vertu de la présente Licence publique.
-Non commercial signifie non principalement destiné ou dirigé vers un avantage commercial ou une compensation monétaire. Aux fins de la présente licence publique, l'échange du matériel sous licence contre un autre matériel soumis au droit d'auteur et aux droits similaires par partage de fichiers numériques ou par des moyens similaires est non commercial à condition qu'il n'y ait aucun paiement de compensation monétaire dans le cadre de l'échange.
-Partager signifie fournir du matériel au public par tout moyen ou processus nécessitant une autorisation en vertu des droits sous licence, tels que la reproduction, l'affichage public, l'exécution publique, la distribution, la diffusion, la communication ou l'importation, et mettre le matériel à la disposition du public, y compris dans façons dont les membres du public peuvent accéder au matériel à partir d'un lieu et à un moment qu'ils choisissent individuellement.
-Droits sui generis sur les bases de données désigne les droits autres que le droit d'auteur résultant de la directive 96/9/CE du Parlement européen et du Conseil du 11 mars 1996 relative à la protection juridique des bases de données, telle que modifiée et/ou remplacée, ainsi que d'autres droits essentiellement équivalents partout dans le monde.
-Vous désigne la personne ou l'entité exerçant les droits sous licence en vertu de cette licence publique. Votre a une signification correspondante.
-Article 2 – Champ d'application.
+Creative Commons public licenses provide a standard set of terms and
+conditions that creators and other rights holders may use to share
+original works of authorship and other material subject to copyright
+and certain other rights specified in the public license below. The
+following considerations are for informational purposes only, are not
+exhaustive, and do not form part of our licenses.
 
-Concession de licence .
-Sous réserve des termes et conditions de la présente licence publique, le concédant vous accorde par la présente une licence mondiale, libre de droits, non sous-licenciable, non exclusive et irrévocable pour exercer les droits sous licence sur le matériel sous licence pour :
-reproduire et partager le matériel sous licence, en tout ou en partie, à des fins non commerciales uniquement ; et
-produire, reproduire et partager du matériel adapté à des fins non commerciales uniquement.
-Exceptions et limitations . Pour éviter tout doute, lorsque des exceptions et limitations s'appliquent à votre utilisation, cette licence publique ne s'applique pas et vous n'avez pas besoin de vous conformer à ses termes et conditions.
-Terme . La durée de cette licence publique est spécifiée à la section 6(a) .
-Médias et formats ; modifications techniques autorisées . Le concédant vous autorise à exercer les droits sous licence sur tous les supports et formats, connus ou créés ultérieurement, et à apporter les modifications techniques nécessaires à cette fin. Le Concédant renonce et/ou accepte de ne faire valoir aucun droit ou autorité pour Vous interdire d'apporter les modifications techniques nécessaires à l'exercice des Droits sous licence, y compris les modifications techniques nécessaires pour contourner les Mesures Technologiques Efficaces. Aux fins de la présente Licence publique, le simple fait d'apporter des modifications autorisées par la présente Section 2(a)(4) ne produit jamais de Matériel adapté.
-Destinataires en aval .
-Offre du concédant – Matériel sous licence . Chaque destinataire du matériel sous licence reçoit automatiquement une offre du concédant pour exercer les droits sous licence selon les termes et conditions de la présente licence publique.
-Offre complémentaire du Concédant – Matériel adapté . Chaque destinataire de Matériel adapté de votre part reçoit automatiquement une offre du Concédant lui permettant d'exercer les Droits sous licence sur le Matériel adapté dans les conditions de la Licence d'adaptateur que vous appliquez.
-Aucune restriction en aval . Vous ne pouvez pas proposer ou imposer des termes ou conditions supplémentaires ou différents, ou appliquer des Mesures Technologiques Efficaces au Contenu sous Licence si cela restreint l'exercice des Droits sous Licence par tout destinataire du Contenu sous Licence.
-Aucune approbation . Rien dans cette licence publique ne constitue ou ne peut être interprété comme une autorisation d'affirmer ou d'impliquer que vous êtes, ou que votre utilisation du matériel sous licence est, liée à, ou parrainée, approuvée ou accordée par le concédant ou d'autres personnes désignées pour recevoir l'attribution prévue à la section 3(a)(1)(A)(i) .
-Autres droits .
+     Considerations for licensors: Our public licenses are
+     intended for use by those authorized to give the public
+     permission to use material in ways otherwise restricted by
+     copyright and certain other rights. Our licenses are
+     irrevocable. Licensors should read and understand the terms
+     and conditions of the license they choose before applying it.
+     Licensors should also secure all rights necessary before
+     applying our licenses so that the public can reuse the
+     material as expected. Licensors should clearly mark any
+     material not subject to the license. This includes other CC-
+     licensed material, or material used under an exception or
+     limitation to copyright. More considerations for licensors:
+     wiki.creativecommons.org/Considerations_for_licensors
 
-Les droits moraux, tels que le droit à l'intégrité, ne sont pas concédés sous cette licence publique, pas plus que les droits à la publicité, à la vie privée et/ou autres droits similaires de la personnalité ; cependant, dans la mesure du possible, le Concédant renonce et/ou accepte de ne pas faire valoir ces droits détenus par le Concédant dans la mesure limitée nécessaire pour Vous permettre d'exercer les Droits sous licence, mais pas autrement.
-Les droits de brevet et de marque ne sont pas concédés sous cette licence publique.
-Dans la mesure du possible, le Concédant renonce à tout droit de percevoir des redevances auprès de Vous pour l'exercice des Droits sous licence, que ce soit directement ou par l'intermédiaire d'une société de gestion collective dans le cadre de tout régime de licence légale ou obligatoire volontaire ou susceptible de renonciation. Dans tous les autres cas, le Concédant se réserve expressément le droit de percevoir ces redevances, y compris lorsque le Contenu sous licence est utilisé à d'autres fins qu'à des fins non commerciales.
-Section 3 – Conditions de licence.
+     Considerations for the public: By using one of our public
+     licenses, a licensor grants the public permission to use the
+     licensed material under specified terms and conditions. If
+     the licensor's permission is not necessary for any reason--for
+     example, because of any applicable exception or limitation to
+     copyright--then that use is not regulated by the license. Our
+     licenses grant only permissions under copyright and certain
+     other rights that a licensor has authority to grant. Use of
+     the licensed material may still be restricted for other
+     reasons, including because others have copyright or other
+     rights in the material. A licensor may make special requests,
+     such as asking that all changes be marked or described.
+     Although not required by our licenses, you are encouraged to
+     respect those requests where reasonable. More considerations
+     for the public:
+     wiki.creativecommons.org/Considerations_for_licensees
 
-Votre exercice des droits sous licence est expressément soumis aux conditions suivantes.
+=======================================================================
 
-Attribution .
+Creative Commons Attribution-ShareAlike 4.0 International Public
+License
 
-Si vous partagez le matériel sous licence (y compris sous une forme modifiée), vous devez :
+By exercising the Licensed Rights (defined below), You accept and agree
+to be bound by the terms and conditions of this Creative Commons
+Attribution-ShareAlike 4.0 International Public License ("Public
+License"). To the extent this Public License may be interpreted as a
+contract, You are granted the Licensed Rights in consideration of Your
+acceptance of these terms and conditions, and the Licensor grants You
+such rights in consideration of benefits the Licensor receives from
+making the Licensed Material available under these terms and
+conditions.
 
-conservez les éléments suivants s'ils sont fournis par le Concédant avec le Contenu sous licence :
-l'identification du ou des créateurs du Contenu sous licence et de toute autre personne désignée pour recevoir l'attribution, de toute manière raisonnable demandée par le Concédant (y compris par un pseudonyme si désigné) ;
-un avis de droit d'auteur ;
-un avis faisant référence à cette licence publique ;
-un avis faisant référence à l'exclusion de garantie ;
-un URI ou un hyperlien vers le Matériel sous licence dans la mesure du possible ;
-indiquer si vous avez modifié le matériel sous licence et conserver une indication de toute modification antérieure ; et
-indiquer que le Matériel sous licence est concédé sous licence en vertu de la présente Licence publique et inclure le texte de, ou l'URI ou le lien hypertexte vers, cette Licence publique.
-Vous pouvez satisfaire aux conditions de la section 3(a)(1) de toute manière raisonnable en fonction du support, des moyens et du contexte dans lesquels vous partagez le matériel sous licence. Par exemple, il peut être raisonnable de satisfaire aux conditions en fournissant un URI ou un hyperlien vers une ressource qui comprend les informations requises.
-Si le concédant vous le demande, vous devez supprimer toutes les informations requises par la section 3(a)(1)(A) dans la mesure du possible.
-Partage dans les mêmes conditions .
-En plus des conditions de la section 3(a) , si vous partagez du matériel adapté que vous produisez, les conditions suivantes s'appliquent également.
 
-La licence d'adaptateur que vous demandez doit être une licence Creative Commons avec les mêmes éléments de licence, cette version ou une version ultérieure, ou une licence compatible BY-NC-SA.
-Vous devez inclure le texte, ou l'URI ou le lien hypertexte vers, la licence d'adaptateur que vous demandez. Vous pouvez satisfaire cette condition de toute manière raisonnable en fonction du support, des moyens et du contexte dans lesquels vous partagez le matériel adapté.
-Vous ne pouvez pas offrir ou imposer des termes ou conditions supplémentaires ou différents, ou appliquer des Mesures Technologiques Efficaces au Matériel Adapté qui restreignent l'exercice des droits accordés en vertu de la Licence d'Adaptateur que Vous appliquez.
-Section 4 – Droits de base de données sui generis.
+Section 1 -- Definitions.
 
-Lorsque les droits sous licence incluent des droits de base de données sui generis qui s'appliquent à votre utilisation du matériel sous licence :
+  a. Adapted Material means material subject to Copyright and Similar
+     Rights that is derived from or based upon the Licensed Material
+     and in which the Licensed Material is translated, altered,
+     arranged, transformed, or otherwise modified in a manner requiring
+     permission under the Copyright and Similar Rights held by the
+     Licensor. For purposes of this Public License, where the Licensed
+     Material is a musical work, performance, or sound recording,
+     Adapted Material is always produced where the Licensed Material is
+     synched in timed relation with a moving image.
 
-pour éviter tout doute, la section 2(a)(1) vous accorde le droit d'extraire, de réutiliser, de reproduire et de partager tout ou une partie substantielle du contenu de la base de données à des fins non commerciales uniquement ;
-si vous incluez tout ou une partie substantielle du contenu de la base de données dans une base de données dans laquelle vous avez des droits de base de données sui generis, alors la base de données dans laquelle vous avez des droits de base de données sui generis (mais pas son contenu individuel) est un matériel adapté, y compris à des fins de Article 3(b) ; et
-Vous devez vous conformer aux conditions de la section 3(a) si vous partagez tout ou une partie substantielle du contenu de la base de données.
-Pour éviter toute ambiguïté, la présente section 4 complète et ne remplace pas vos obligations en vertu de la présente licence publique lorsque les droits sous licence incluent d'autres droits d'auteur et droits similaires.
-Section 5 – Exclusion de garantie et limitation de responsabilité.
+  b. Adapter's License means the license You apply to Your Copyright
+     and Similar Rights in Your contributions to Adapted Material in
+     accordance with the terms and conditions of this Public License.
 
-Sauf engagement contraire du concédant, dans la mesure du possible, le concédant offre le matériel sous licence tel quel et tel que disponible, et ne fait aucune représentation ou garantie d'aucune sorte concernant le matériel sous licence, qu'elle soit expresse, implicite, statutaire ou autre. . Cela inclut, sans s'y limiter, les garanties de titre, de qualité marchande, d'adéquation à un usage particulier, de non-contrefaçon, d'absence de vices cachés ou autres, d'exactitude ou de présence ou d'absence d'erreurs, qu'elles soient ou non connues ou détectables. Lorsque les exclusions de garantie ne sont pas autorisées en totalité ou en partie, cette exclusion de responsabilité peut ne pas s'appliquer à vous.
-Dans la mesure du possible, le concédant ne sera en aucun cas responsable envers vous sur toute théorie juridique (y compris, sans s'y limiter, la négligence) ou autrement pour toute perte, coût direct, spécial, indirect, accessoire, consécutif, punitif, exemplaire ou autre. , dépenses ou dommages résultant de cette licence publique ou de l'utilisation du matériel sous licence, même si le concédant a été informé de la possibilité de telles pertes, coûts, dépenses ou dommages. Lorsqu'une limitation de responsabilité n'est pas autorisée en totalité ou en partie, cette limitation peut ne pas s'appliquer à Vous.
-L'exclusion de garantie et la limitation de responsabilité fournies ci-dessus doivent être interprétées d'une manière qui, dans la mesure du possible, se rapproche le plus d'une exclusion absolue et d'une renonciation à toute responsabilité.
-Section 6 – Durée et résiliation.
+  c. BY-SA Compatible License means a license listed at
+     creativecommons.org/compatiblelicenses, approved by Creative
+     Commons as essentially the equivalent of this Public License.
 
-Cette licence publique s'applique pour la durée du droit d'auteur et des droits similaires concédés ici. Toutefois, si vous ne respectez pas cette licence publique, vos droits en vertu de cette licence publique seront automatiquement résiliés.
-Lorsque votre droit d'utiliser le matériel sous licence a pris fin en vertu de la section 6(a) , il rétablit :
+  d. Copyright and Similar Rights means copyright and/or similar rights
+     closely related to copyright including, without limitation,
+     performance, broadcast, sound recording, and Sui Generis Database
+     Rights, without regard to how the rights are labeled or
+     categorized. For purposes of this Public License, the rights
+     specified in Section 2(b)(1)-(2) are not Copyright and Similar
+     Rights.
 
-automatiquement à compter de la date à laquelle la violation est corrigée, à condition qu'elle soit corrigée dans les 30 jours suivant votre découverte de la violation ; ou
-après réintégration expresse par le Concédant.
-Pour éviter toute ambiguïté, la présente Section 6(b) n'affecte aucun droit dont le Concédant pourrait disposer pour demander réparation en cas de violation de Votre part de la présente Licence publique.
-Pour éviter toute ambiguïté, le Concédant peut également proposer le Contenu sous licence selon des termes ou conditions distincts ou cesser de distribuer le Contenu sous licence à tout moment ; cependant, cela ne mettra pas fin à cette licence publique.
-Les sections 1 , 5 , 6 , 7 et 8 survivent à la résiliation de cette licence publique.
-Section 7 – Autres termes et conditions.
+  e. Effective Technological Measures means those measures that, in the
+     absence of proper authority, may not be circumvented under laws
+     fulfilling obligations under Article 11 of the WIPO Copyright
+     Treaty adopted on December 20, 1996, and/or similar international
+     agreements.
 
-Le Concédant ne sera pas lié par les termes ou conditions supplémentaires ou différents communiqués par Vous, sauf accord exprès.
-Tous les arrangements, ententes ou accords concernant le matériel sous licence non mentionnés dans les présentes sont distincts et indépendants des termes et conditions de la présente licence publique.
-Article 8 – Interprétation.
+  f. Exceptions and Limitations means fair use, fair dealing, and/or
+     any other exception or limitation to Copyright and Similar Rights
+     that applies to Your use of the Licensed Material.
 
-Pour éviter toute ambiguïté, cette Licence publique ne réduit pas, ne limite pas, ne restreint pas ou n'impose pas de conditions à toute utilisation du Matériel sous licence qui pourrait légalement être faite sans autorisation en vertu de cette Licence publique, et ne doit pas être interprétée comme telle.
-Dans la mesure du possible, si une disposition de la présente licence publique est jugée inapplicable, elle sera automatiquement réformée dans la mesure minimale nécessaire pour la rendre exécutoire. Si la disposition ne peut pas être réformée, elle sera séparée de la présente Licence Publique sans affecter l'applicabilité des termes et conditions restants.
-Aucune modalité ou condition de cette licence publique ne sera abandonnée et aucun manquement à se conformer ne sera accepté sauf accord exprès du concédant.
-Rien dans cette Licence Publique ne constitue ou ne peut être interprété comme une limitation ou une renonciation aux privilèges et immunités qui s'appliquent au Concédant ou à Vous, y compris vis-à-vis des procédures judiciaires de toute juridiction ou autorité.
-Creative Commons n'est pas partie à ses licences publiques. Nonobstant, Creative Commons peut choisir d'appliquer l'une de ses licences publiques au matériel qu'il publie et, dans ces cas, sera considéré comme le « Concédant ». Le texte des licences publiques Creative Commons est dédié au domaine public sous le CC0 Public Domain Dedication . Sauf dans le but limité d'indiquer que le matériel est partagé sous une licence publique Creative Commons ou autrement autorisé par les politiques Creative Commons publiées sur creativecommons.org/policies, Creative Commons n'autorise pas l'utilisation de la marque "Creative Commons" ou de toute autre marque ou logo de Creative Commons sans son consentement écrit préalable, y compris, sans s'y limiter, en relation avec toute modification non autorisée de l'une de ses licences publiques ou de tout autre arrangement. , accords ou accords concernant l'utilisation du matériel sous licence. Pour éviter toute ambiguïté, ce paragraphe ne fait pas partie des licences publiques.
+  g. License Elements means the license attributes listed in the name
+     of a Creative Commons Public License. The License Elements of this
+     Public License are Attribution and ShareAlike.
 
-Creative Commons peut être contacté sur creativecommons.org .
+  h. Licensed Material means the artistic or literary work, database,
+     or other material to which the Licensor applied this Public
+     License.
 
-Langues supplémentaires disponibles: العربية , Čeština , Deutsch , ελληνικά , Español , Euskara , Suomeksi , Français , Hrvatski , Bahasa Indonesia , italiano ,日本語 , 한국어 , liettuvių , latviki , te reo māori , nidellands , norsk , POLSK , PORTIGU русский , Slovenščina, svenska , Türkçe , українська , 中文, 華語. Veuillez lire la FAQ pour plus d'informations sur les traductions officielles.
+  i. Licensed Rights means the rights granted to You subject to the
+     terms and conditions of this Public License, which are limited to
+     all Copyright and Similar Rights that apply to Your use of the
+     Licensed Material and that the Licensor has authority to license.
 
+  j. Licensor means the individual(s) or entity(ies) granting rights
+     under this Public License.
+
+  k. Share means to provide material to the public by any means or
+     process that requires permission under the Licensed Rights, such
+     as reproduction, public display, public performance, distribution,
+     dissemination, communication, or importation, and to make material
+     available to the public including in ways that members of the
+     public may access the material from a place and at a time
+     individually chosen by them.
+
+  l. Sui Generis Database Rights means rights other than copyright
+     resulting from Directive 96/9/EC of the European Parliament and of
+     the Council of 11 March 1996 on the legal protection of databases,
+     as amended and/or succeeded, as well as other essentially
+     equivalent rights anywhere in the world.
+
+  m. You means the individual or entity exercising the Licensed Rights
+     under this Public License. Your has a corresponding meaning.
+
+
+Section 2 -- Scope.
+
+  a. License grant.
+
+       1. Subject to the terms and conditions of this Public License,
+          the Licensor hereby grants You a worldwide, royalty-free,
+          non-sublicensable, non-exclusive, irrevocable license to
+          exercise the Licensed Rights in the Licensed Material to:
+
+            a. reproduce and Share the Licensed Material, in whole or
+               in part; and
+
+            b. produce, reproduce, and Share Adapted Material.
+
+       2. Exceptions and Limitations. For the avoidance of doubt, where
+          Exceptions and Limitations apply to Your use, this Public
+          License does not apply, and You do not need to comply with
+          its terms and conditions.
+
+       3. Term. The term of this Public License is specified in Section
+          6(a).
+
+       4. Media and formats; technical modifications allowed. The
+          Licensor authorizes You to exercise the Licensed Rights in
+          all media and formats whether now known or hereafter created,
+          and to make technical modifications necessary to do so. The
+          Licensor waives and/or agrees not to assert any right or
+          authority to forbid You from making technical modifications
+          necessary to exercise the Licensed Rights, including
+          technical modifications necessary to circumvent Effective
+          Technological Measures. For purposes of this Public License,
+          simply making modifications authorized by this Section 2(a)
+          (4) never produces Adapted Material.
+
+       5. Downstream recipients.
+
+            a. Offer from the Licensor -- Licensed Material. Every
+               recipient of the Licensed Material automatically
+               receives an offer from the Licensor to exercise the
+               Licensed Rights under the terms and conditions of this
+               Public License.
+
+            b. Additional offer from the Licensor -- Adapted Material.
+               Every recipient of Adapted Material from You
+               automatically receives an offer from the Licensor to
+               exercise the Licensed Rights in the Adapted Material
+               under the conditions of the Adapter's License You apply.
+
+            c. No downstream restrictions. You may not offer or impose
+               any additional or different terms or conditions on, or
+               apply any Effective Technological Measures to, the
+               Licensed Material if doing so restricts exercise of the
+               Licensed Rights by any recipient of the Licensed
+               Material.
+
+       6. No endorsement. Nothing in this Public License constitutes or
+          may be construed as permission to assert or imply that You
+          are, or that Your use of the Licensed Material is, connected
+          with, or sponsored, endorsed, or granted official status by,
+          the Licensor or others designated to receive attribution as
+          provided in Section 3(a)(1)(A)(i).
+
+  b. Other rights.
+
+       1. Moral rights, such as the right of integrity, are not
+          licensed under this Public License, nor are publicity,
+          privacy, and/or other similar personality rights; however, to
+          the extent possible, the Licensor waives and/or agrees not to
+          assert any such rights held by the Licensor to the limited
+          extent necessary to allow You to exercise the Licensed
+          Rights, but not otherwise.
+
+       2. Patent and trademark rights are not licensed under this
+          Public License.
+
+       3. To the extent possible, the Licensor waives any right to
+          collect royalties from You for the exercise of the Licensed
+          Rights, whether directly or through a collecting society
+          under any voluntary or waivable statutory or compulsory
+          licensing scheme. In all other cases the Licensor expressly
+          reserves any right to collect such royalties.
+
+
+Section 3 -- License Conditions.
+
+Your exercise of the Licensed Rights is expressly made subject to the
+following conditions.
+
+  a. Attribution.
+
+       1. If You Share the Licensed Material (including in modified
+          form), You must:
+
+            a. retain the following if it is supplied by the Licensor
+               with the Licensed Material:
+
+                 i. identification of the creator(s) of the Licensed
+                    Material and any others designated to receive
+                    attribution, in any reasonable manner requested by
+                    the Licensor (including by pseudonym if
+                    designated);
+
+                ii. a copyright notice;
+
+               iii. a notice that refers to this Public License;
+
+                iv. a notice that refers to the disclaimer of
+                    warranties;
+
+                 v. a URI or hyperlink to the Licensed Material to the
+                    extent reasonably practicable;
+
+            b. indicate if You modified the Licensed Material and
+               retain an indication of any previous modifications; and
+
+            c. indicate the Licensed Material is licensed under this
+               Public License, and include the text of, or the URI or
+               hyperlink to, this Public License.
+
+       2. You may satisfy the conditions in Section 3(a)(1) in any
+          reasonable manner based on the medium, means, and context in
+          which You Share the Licensed Material. For example, it may be
+          reasonable to satisfy the conditions by providing a URI or
+          hyperlink to a resource that includes the required
+          information.
+
+       3. If requested by the Licensor, You must remove any of the
+          information required by Section 3(a)(1)(A) to the extent
+          reasonably practicable.
+
+  b. ShareAlike.
+
+     In addition to the conditions in Section 3(a), if You Share
+     Adapted Material You produce, the following conditions also apply.
+
+       1. The Adapter's License You apply must be a Creative Commons
+          license with the same License Elements, this version or
+          later, or a BY-SA Compatible License.
+
+       2. You must include the text of, or the URI or hyperlink to, the
+          Adapter's License You apply. You may satisfy this condition
+          in any reasonable manner based on the medium, means, and
+          context in which You Share Adapted Material.
+
+       3. You may not offer or impose any additional or different terms
+          or conditions on, or apply any Effective Technological
+          Measures to, Adapted Material that restrict exercise of the
+          rights granted under the Adapter's License You apply.
+
+
+Section 4 -- Sui Generis Database Rights.
+
+Where the Licensed Rights include Sui Generis Database Rights that
+apply to Your use of the Licensed Material:
+
+  a. for the avoidance of doubt, Section 2(a)(1) grants You the right
+     to extract, reuse, reproduce, and Share all or a substantial
+     portion of the contents of the database;
+
+  b. if You include all or a substantial portion of the database
+     contents in a database in which You have Sui Generis Database
+     Rights, then the database in which You have Sui Generis Database
+     Rights (but not its individual contents) is Adapted Material,
+
+     including for purposes of Section 3(b); and
+  c. You must comply with the conditions in Section 3(a) if You Share
+     all or a substantial portion of the contents of the database.
+
+For the avoidance of doubt, this Section 4 supplements and does not
+replace Your obligations under this Public License where the Licensed
+Rights include other Copyright and Similar Rights.
+
+
+Section 5 -- Disclaimer of Warranties and Limitation of Liability.
+
+  a. UNLESS OTHERWISE SEPARATELY UNDERTAKEN BY THE LICENSOR, TO THE
+     EXTENT POSSIBLE, THE LICENSOR OFFERS THE LICENSED MATERIAL AS-IS
+     AND AS-AVAILABLE, AND MAKES NO REPRESENTATIONS OR WARRANTIES OF
+     ANY KIND CONCERNING THE LICENSED MATERIAL, WHETHER EXPRESS,
+     IMPLIED, STATUTORY, OR OTHER. THIS INCLUDES, WITHOUT LIMITATION,
+     WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR
+     PURPOSE, NON-INFRINGEMENT, ABSENCE OF LATENT OR OTHER DEFECTS,
+     ACCURACY, OR THE PRESENCE OR ABSENCE OF ERRORS, WHETHER OR NOT
+     KNOWN OR DISCOVERABLE. WHERE DISCLAIMERS OF WARRANTIES ARE NOT
+     ALLOWED IN FULL OR IN PART, THIS DISCLAIMER MAY NOT APPLY TO YOU.
+
+  b. TO THE EXTENT POSSIBLE, IN NO EVENT WILL THE LICENSOR BE LIABLE
+     TO YOU ON ANY LEGAL THEORY (INCLUDING, WITHOUT LIMITATION,
+     NEGLIGENCE) OR OTHERWISE FOR ANY DIRECT, SPECIAL, INDIRECT,
+     INCIDENTAL, CONSEQUENTIAL, PUNITIVE, EXEMPLARY, OR OTHER LOSSES,
+     COSTS, EXPENSES, OR DAMAGES ARISING OUT OF THIS PUBLIC LICENSE OR
+     USE OF THE LICENSED MATERIAL, EVEN IF THE LICENSOR HAS BEEN
+     ADVISED OF THE POSSIBILITY OF SUCH LOSSES, COSTS, EXPENSES, OR
+     DAMAGES. WHERE A LIMITATION OF LIABILITY IS NOT ALLOWED IN FULL OR
+     IN PART, THIS LIMITATION MAY NOT APPLY TO YOU.
+
+  c. The disclaimer of warranties and limitation of liability provided
+     above shall be interpreted in a manner that, to the extent
+     possible, most closely approximates an absolute disclaimer and
+     waiver of all liability.
+
+
+Section 6 -- Term and Termination.
+
+  a. This Public License applies for the term of the Copyright and
+     Similar Rights licensed here. However, if You fail to comply with
+     this Public License, then Your rights under this Public License
+     terminate automatically.
+
+  b. Where Your right to use the Licensed Material has terminated under
+     Section 6(a), it reinstates:
+
+       1. automatically as of the date the violation is cured, provided
+          it is cured within 30 days of Your discovery of the
+          violation; or
+
+       2. upon express reinstatement by the Licensor.
+
+     For the avoidance of doubt, this Section 6(b) does not affect any
+     right the Licensor may have to seek remedies for Your violations
+     of this Public License.
+
+  c. For the avoidance of doubt, the Licensor may also offer the
+     Licensed Material under separate terms or conditions or stop
+     distributing the Licensed Material at any time; however, doing so
+     will not terminate this Public License.
+
+  d. Sections 1, 5, 6, 7, and 8 survive termination of this Public
+     License.
+
+
+Section 7 -- Other Terms and Conditions.
+
+  a. The Licensor shall not be bound by any additional or different
+     terms or conditions communicated by You unless expressly agreed.
+
+  b. Any arrangements, understandings, or agreements regarding the
+     Licensed Material not stated herein are separate from and
+     independent of the terms and conditions of this Public License.
+
+
+Section 8 -- Interpretation.
+
+  a. For the avoidance of doubt, this Public License does not, and
+     shall not be interpreted to, reduce, limit, restrict, or impose
+     conditions on any use of the Licensed Material that could lawfully
+     be made without permission under this Public License.
+
+  b. To the extent possible, if any provision of this Public License is
+     deemed unenforceable, it shall be automatically reformed to the
+     minimum extent necessary to make it enforceable. If the provision
+     cannot be reformed, it shall be severed from this Public License
+     without affecting the enforceability of the remaining terms and
+     conditions.
+
+  c. No term or condition of this Public License will be waived and no
+     failure to comply consented to unless expressly agreed to by the
+     Licensor.
+
+  d. Nothing in this Public License constitutes or may be interpreted
+     as a limitation upon, or waiver of, any privileges and immunities
+     that apply to the Licensor or You, including from the legal
+     processes of any jurisdiction or authority.
+
+
+=======================================================================
+
+Creative Commons is not a party to its public licenses.
+Notwithstanding, Creative Commons may elect to apply one of its public
+licenses to material it publishes and in those instances will be
+considered the “Licensor.” The text of the Creative Commons public
+licenses is dedicated to the public domain under the CC0 Public Domain
+Dedication. Except for the limited purpose of indicating that material
+is shared under a Creative Commons public license or as otherwise
+permitted by the Creative Commons policies published at
+creativecommons.org/policies, Creative Commons does not authorize the
+use of the trademark "Creative Commons" or any other trademark or logo
+of Creative Commons without its prior written consent including,
+without limitation, in connection with any unauthorized modifications
+to any of its public licenses or any other arrangements,
+understandings, or agreements concerning use of licensed material. For
+the avoidance of doubt, this paragraph does not form part of the public
+licenses.
+
+Creative Commons may be contacted at creativecommons.org.
 
 “Commons Clause” License Condition v1.0
 
