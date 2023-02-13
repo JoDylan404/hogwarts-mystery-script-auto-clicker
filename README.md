@@ -1,8 +1,15 @@
 # hogwarts-mystery-script-auto-clicker
+Ce projet a pour but de générer des scripts pour automatiser des tâches pour une journée de jeux.
+
+Pour toute participation, question, demande (ajout de licence comercial...), détaile et contact :  
+[Contact et suport](#contact-et-suport)
+
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6950/badge)](https://bestpractices.coreinfrastructure.org/projects/6950)
-
-Ce projet a pour but de générer des scripts pour automatiser des tâches pour une journée de jeux. 
+[![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/80x15.png" /></a>
+<a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/"><img alt="Licence Creative Commons" style="border-width:0" src="https://i.creativecommons.org/l/by-nc-sa/4.0/88x31.png" /></a>  
+Ce(tte) œuvre est mise à disposition selon les termes de la <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 
 Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 
