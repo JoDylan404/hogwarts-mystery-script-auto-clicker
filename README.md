@@ -2,7 +2,7 @@
 Ce projet a pour but de générer des scripts pour automatiser des tâches pour une journée de jeux.
 
 Pour toute participation, question, demande (ajout de licence comercial...), détaile et contact :  
-[Contact et suport](#contact-et-suport)
+[Contact et suport](#contact-et-suport-1)
 
 [![Contributor Covenant](https://img.shields.io/badge/Contributor%20Covenant-2.1-4baaaa.svg)](code_of_conduct.md)
 [![OpenSSF Best Practices](https://bestpractices.coreinfrastructure.org/projects/6950/badge)](https://bestpractices.coreinfrastructure.org/projects/6950)
@@ -18,27 +18,8 @@ Ce(tte) œuvre est mise à disposition selon les termes de la :
 > [License RHeCos-1.1](https://directory.fsf.org/wiki/License:RHeCos-1.1) & 
 > [License Aladdin](https://directory.fsf.org/wiki/License:Aladdin) en plus de la [Licence Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) & [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
 
-Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
+Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir-1) pour l'améliorer!
 
------------------------------------------------------------------------------------------------------------------------------------------------------------------
-- [hogwarts-mystery-script-auto-clicker](#hogwarts-mystery-script-auto-clicker)
-  - [Usage](#usage)
-    - [Interface graphique](#interface-graphique)
-      - [Prérequis interface graphique](#prérequis-interface-graphique)
-      - [Utilisation interface graphique](#utilisation-interface-graphique)
-      - [Modification interface graphique](#modification-interface-graphique)
-    - [Script](#script)
-      - [Prérequis script](#prérequis-script)
-      - [Utilisation script](#utilisation-script)
-        - [Avec l'interface graphique](#avec-interface-graphique)
-        - [Manuelment](#manuelment)
-      - [Modification script](#modification-script)
-        - [Mode Débug](#mode-débug)
-  - [Soutenir](#soutenir)
-    - [Parainage](#parainage--earnapp--sweatcoin)
-    - [Cagnotte](#cagnotte--lydia-0-de-taxe--leetchi-2-de-taxe)
-    - [Abonement et donnation](#abonement-et-donnation--paypal--transactions-supérieures-ou-égales-à-1001-eur-060--de-taxe)
-  - [Contact et suport](#contact-et-suport)
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 <details id=1>
 <summary><h2>Usage</h2> : </summary>
@@ -55,7 +36,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
          <ul>
           <li>Lancer le <a rel="main.exe" href="/main.exe">main.exe</a> à la 
             <a rel="racine du projet" href="https://github.com/JoDylan404/hogwarts-mystery-script-auto-clicker">racine du projet</a>.</li>
-           ------- ou ---------</br>
+           ------- ou ---------<br/>
           <li>Lancer 
             <a rel="/hogwarts-mystery-script-auto-clicker" href="/hogwarts-mystery-script-auto-clicker">hogwarts-mystery-script-auto-clicker</a> \
             <a rel="/hogwarts-mystery-script-auto-clicker/SCRIPT_HOGWARD_MYSTERY.exe" 
@@ -77,11 +58,21 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
     <summary><h4>Modification interface graphique</h4> : </summary>
     <ol>
       <li>
-        Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\ [Data*](hogwarts-mystery-script-auto-clicker/DataScript/) pour les commandes des instances du script à éffectuer et pour afficher la progression : ([DataExec](hogwarts-mystery-script-auto-clicker/DataScript/DataExec), [DataItem](hogwarts-mystery-script-auto-clicker/DataScript/DataItem), [DataLieu](hogwarts-mystery-script-auto-clicker/DataScript/DataLieu), [DataLog](hogwarts-mystery-script-auto-clicker/DataScript/DataLog), [DataProg](hogwarts-mystery-script-auto-clicker/DataScript/DataProg)...)
+        Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\<a rel="hogwarts-mystery-script-auto-clicker/DataScript/" href="hogwarts-mystery-script-auto-clicker/DataScript/">Data*</a> pour les commandes des instances du script à éffectuer et pour afficher la progression : <br/>
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataExec" href="hogwarts-mystery-script-auto-clicker/DataScript/DataExec">DataExec</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataItem" href="hogwarts-mystery-script-auto-clicker/DataScript/DataItem">DataItem</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLieu">DataLieu</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataLog" href="hogwarts-mystery-script-auto-clicker/DataScript/DataLog">DataLog</a>, 
+<a rel="hogwarts-mystery-script-auto-clicker/DataScript/DataProg" href="hogwarts-mystery-script-auto-clicker/DataScript/DataProg">DataProg</a>...)
       </li>
     </ol>
     <ul>
       <li>
+        Pour demander la creation d'une branche et ajouter votre interface graphique au projet suivez les lien 
+        <a rel="Contact et suport" href="#contact-et-suport-1">Contact et suport</a>.<br/>
+        Ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json <br/>
+        Merci de formuler votre demande en utilisant les template dans ".github/<a rel="ISSUE_TEMPLATE" href=".github/ISSUE_TEMPLATE/">ISSUE_TEMPLATE</a>"<br/>
+        ( <a rel="bug_report.md" href=".github/ISSUE_TEMPLATE/bug_report.md">bug_report.md</a>, <a rel="custom.md" href=".github/ISSUE_TEMPLATE/custom.md">custom.md</a>, <a rel="feature_request.md" href=".github/ISSUE_TEMPLATE/feature_request.md">feature_request.md</a> )
       </li>
     </ul>
     </details>
@@ -123,6 +114,27 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 <details id=3>
 <summary><h2>Contact et suport</h2> : </summary>
 </details>
+
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
+- [hogwarts-mystery-script-auto-clicker](#hogwarts-mystery-script-auto-clicker)
+  - [Usage](#usage-1)
+    - [Interface graphique](#interface-graphique-1)
+      - [Prérequis interface graphique](#prérequis-interface-graphique-1)
+      - [Utilisation interface graphique](#utilisation-interface-graphique-1)
+      - [Modification interface graphique](#modification-interface-graphique-1)
+    - [Script](#script-1)
+      - [Prérequis script](#prérequis-script-1)
+      - [Utilisation script](#utilisation-script-1)
+        - [Avec l'interface graphique](#avec-interface-graphique-1)
+        - [Manuelment](#manuelment-1)
+      - [Modification script](#modification-script-1)
+        - [Mode Débug](#mode-débug-1)
+  - [Soutenir](#soutenir-1)
+    - [Parainage](#parainage--earnapp--sweatcoin)
+    - [Cagnotte](#cagnotte--lydia-0-de-taxe--leetchi-2-de-taxe)
+    - [Abonement et donnation](#abonement-et-donnation--paypal--transactions-supérieures-ou-égales-à-1001-eur-060--de-taxe)
+  - [Contact et suport](#contact-et-suport-1)
+---------------------------------------------------------------------------------------------------------------------------------------------------------------
 
 ## Usage
 ### Interface graphique
@@ -191,10 +203,12 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 > ###### Email : john19911991@hotmail.fr
 ###### Merci de formuler votre demande en utilisant si possible les template dans : ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))".
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License :  
-> * Avec réstriction pour les conditions spécifiques concernant la distribution du code source :  
-> [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) [ [License compatiblility : CC BY-NC-SA 4.0/GPLv3 ](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
-> * Avec restriction pour Partager copier redistribuer le matériel sur n'importe quel support ou format :  
-    - Doit être sans frai, valider et ajouter au dépot.  
+> 1) Avec réstriction de la distribution du code source sous  
+> [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html) [ [License compatiblility : CC BY-NC-SA 4.0/GPLv3](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) | [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
+> 2) Avec réstriction Partager/Copier/Redistribuer/Modifier : Doit être sans frai, valider et ajouter au dépot sous :   
+> [License Lha](https://directory.fsf.org/wiki/License:Lha) & 
+> [License RHeCos-1.1](https://directory.fsf.org/wiki/License:RHeCos-1.1) & 
+> [License Aladdin](https://directory.fsf.org/wiki/License:Aladdin) en plus de la [Licence Creative Commons BY-NC-SA](https://creativecommons.org/licenses/by-nc-sa/4.0/legalcode) & [Licence GPLv3](https://www.gnu.org/licenses/gpl-3.0.html)
   * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
 ---
 By [JoDylan404](https://github.com/JoDylan404)
