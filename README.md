@@ -6,7 +6,7 @@
 
 Ce projet a pour but de générer des scripts pour automatiser des tâches pour une journée de jeux.
 
-Pour toute participation, question, demande (ajout de licence comercial...), détaile et contact :  
+Pour toute participation, question, demande (ajout de licence commerciale...), détaile et contact :  
 [Contact et suport](#contact-et-suport)
 
 Ce(tte) œuvre est mise à disposition selon les termes de la :  
