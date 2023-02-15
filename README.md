@@ -13,7 +13,7 @@ Ce(tte) œuvre est mise à disposition selon les termes de la :
 > <a rel="license" href="http://creativecommons.org/licenses/by-nc-sa/4.0/">Licence Creative Commons Attribution - Pas d’Utilisation Commerciale - Partage dans les Mêmes Conditions 4.0 International</a>.
 > [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)  
 > 1) Avec réstriction de la distribution du code source sous :  
-> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: GPL v3](https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3-green)](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) [ [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
+> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: GPL v3](https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3--green-SUCCESS)](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) [ [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
 > 2) Avec réstriction pour diffusion de Modification = sans frai, valider et ajouter au dépot.
 
 Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
@@ -55,9 +55,12 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 4) le script s'execute
 #### Modification interface graphique
 1) Utiliser les fichier hogwarts-mystery-script-auto-clicker\DataScript\ [Data*](hogwarts-mystery-script-auto-clicker/DataScript/) pour les commandes des instances du script à éffectuer et pour afficher la progression : ([DataExec](hogwarts-mystery-script-auto-clicker/DataScript/DataExec), [DataItem](hogwarts-mystery-script-auto-clicker/DataScript/DataItem), [DataLieu](hogwarts-mystery-script-auto-clicker/DataScript/DataLieu), [DataLog](hogwarts-mystery-script-auto-clicker/DataScript/DataLog), [DataProg](hogwarts-mystery-script-auto-clicker/DataScript/DataProg)...)
-- Pour demander la creation d'une branche et ajouter votre interface graphique au projet suivez les lien [Contact et suport](#contact-et-suport).
 
-  ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
+- pour toute modification :
+  - Les fichier source des .exe qui sont a disposision ce trouve dans [hogwarts-mystery-script-auto-clicker/CodeSourceScript/*.json](hogwarts-mystery-script-auto-clicker/CodeSourceScript)
+  - Les fichier sourse non compiler en .exe se trouve dans [hogwarts-mystery-script-auto-clicker/*.json](hogwarts-mystery-script-auto-clicker/)
+  - Pour demander la creation d'une branche et ajouter vos modification au projet suivez les lien [Contact et suport](#contact-et-suport).  
+  - Ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
 
   merci de formuler votre demande en utilisant les template dans ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))
 
@@ -89,10 +92,12 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 4) ##### Mode Débug 
     > Aprés modification, vous pouvez executer le script étape par étape en selectionant le mode debug ![IconeDebug](SourceScript/AMK/AMK_v6.3.8.6/images/debug.png "IconeDebug")
     
-- Pour demander la creation d'une branche et ajouter votre script au projet suivez les lien [Contact et suport](#contact-et-suport).
+- pour toute modification :
+  - Les fichier source des .exe qui sont a disposision ce trouve dans [hogwarts-mystery-script-auto-clicker/CodeSourceScript/*.json](hogwarts-mystery-script-auto-clicker/CodeSourceScript)
+  - Les fichier sourse non compiler en .exe se trouve dans [hogwarts-mystery-script-auto-clicker/*.json](hogwarts-mystery-script-auto-clicker/)
+  - Pour demander la creation d'une branche et ajouter vos modification au projet suivez les lien [Contact et suport](#contact-et-suport).  
+  - Ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
 
-  ajouter votre nom GitHub au fichier modifier exemple : *-nomGitHub.json
-  
     merci de formuler votre demande en utilisant les template dans ".github/ [ISSUE_TEMPLATE](.github/ISSUE_TEMPLATE/)" ([bug_report.md](.github/ISSUE_TEMPLATE/bug_report.md), [custom.md](.github/ISSUE_TEMPLATE/custom.md), [feature_request.md](.github/ISSUE_TEMPLATE/feature_request.md))
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------
 ## Soutenir
@@ -108,7 +113,7 @@ Vous aimez ce projet ? Merci de nous [Soutenir](#soutenir) pour l'améliorer!
 This work is licensed under the Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International License :  
 [![License: CC BY-NC-SA 4.0](https://img.shields.io/badge/License-CC_BY--NC--SA_4.0-lightgrey.svg)](https://creativecommons.org/licenses/by-nc-sa/4.0/)
 > 1) Avec réstriction de la distribution du code source sous  
-> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: GPL v3](https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3-green)](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) [ [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
+> [![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl-3.0) [![License: GPL v3](https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3--green-SUCCESS)](https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses) [ [License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3](https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3) ]  
 > 2) Avec réstriction pour diffusion de Modification = sans frai, valider et ajouter au dépot.   
 
   * To view a copy of this license, visit http://creativecommons.org/licenses/by-nc-sa/4.0/ or send a letter to Creative Commons, PO Box 1866, Mountain View, CA 94042, USA.
@@ -316,7 +321,7 @@ Merci de formuler votre demande en utilisant les template dans ".github/<a rel="
     <li>
       Avec réstriction de la distribution du code source sous : <br/>
       <a href="https://www.gnu.org/licenses/gpl-3.0.html"><img src="https://img.shields.io/badge/License-GPLv3-blue.svg" alt="License-GPLv3" title="License-GPLv3"></a>
-      <a href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses"><img src="https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3-green" alt="compatible-licenses" title="compatible-licenses"></a>
+      <a href="https://creativecommons.org/share-your-work/licensing-considerations/compatible-licenses"><img src="https://img.shields.io/badge/%20License%20compatiblility-CC%20BY--NC--SA%204.0%2FGPLv3--green-SUCCESS" alt="compatible-licenses" title="compatible-licenses"></a>
       <a rel="License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3" href="https://wiki.creativecommons.org/wiki/ShareAlike_compatibility:_GPLv3">License compatiblility Wiki : CC BY-NC-SA 4.0/GPLv3</a>  
     </li>
     <li>
